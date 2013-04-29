@@ -1,5 +1,6 @@
 tk: theta_kappa.dot
-	dot -Tsvg -otheta_kappa.svg theta_kappa.dot
+	mkdir -p trees
+	dot -Tsvg -otrees/theta_kappa.svg theta_kappa.dot
 
 clean:
-	rm *.svg
+	rm trees/*.svg

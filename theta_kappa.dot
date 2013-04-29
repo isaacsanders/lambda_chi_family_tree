@@ -2,9 +2,13 @@ digraph "Theta Kappa Zeta Family Tree" {
   rankdir=LR
   node [shape=record]
   tk1744 [label="<tk_num> ΘK1744|<name> Gavin West"]
+  tk1743 [label="<tk_num> ΘK1743|<name> Zachary Terrell"]
   tk1742 [label="<tk_num> ΘK1742|<name> Andrew Tebbe"]
   tk1739 [label="<tk_num> ΘK1739|<name> Kurt Seibert"]
   tk1738 [label="<tk_num> ΘK1738|<name> Isaac Sanders"]
+  tk1737 [label="<tk_num> ΘK1737|<name> Jacob Rigelman"]
+  tk1736 [label="<tk_num> ΘK1736|<name> Colin Myers"]
+  tk1735 [label="<tk_num> ΘK1735|<name> Thomas Lowrey"]
   tk1733 [label="<tk_num> ΘK1733|<name> Cole Hardman"]
   tk1731 [label="<tk_num> ΘK1731|<name> James Butler"]
   tk1728 [label="<tk_num> ΘK1728|<name> Richard Shomer"]
@@ -13,24 +17,31 @@ digraph "Theta Kappa Zeta Family Tree" {
   tk1721 [label="<tk_num> ΘK1721|<name> John McCormack"]
   tk1721 -> tk1731
 
+  tk1719 [label="<tk_num> ΘK1719|<name> Alex Kittleson"]
+  tk1719 -> tk1735
+
   tk1705 [label="<tk_num> ΘK1705|<name> Dyllin Kinman"]
   tk1705 -> tk1728
 
-  tk1700 [label="<tk_num> ΘK1700|<name> Zach Dunbar"]
+  tk1703 [label="<tk_num> ΘK1703|<name> Ethan Hixon"]
+  tk1703 -> tk1737
+
+  tk1700 [label="<tk_num> ΘK1700|<name> Zachariah Dunbar"]
   tk1700 -> tk1744
 
   tk1695 [label="<tk_num> ΘK1695|<name> Travis Stallings"]
-  tk1695 -> tk1705
-  tk1695 -> tk1733
+  tk1695 -> tk1705, tk1733
 
   tk1693 [label="<tk_num> ΘK1693|<name> Zachary Reynolds"]
   tk1693 -> tk1738
 
   tk1692 [label="<tk_num> ΘK1692|<name> Benjamin McNees"]
+  tk1690 [label="<tk_num> ΘK1690|<name> Austin Hayhurst"]
+  tk1690 -> tk1736
 
   tk1688 [label="<tk_num> ΘK1688|<name> Jeremy Bultema"]
-  tk1688 -> tk1700
-  tk1688 -> tk1739
+  tk1688 -> tk1700, tk1739
 
   tk1659 [label="<tk_num> ΘK1659|<name> Calvin Bush"]
+  tk1659 -> tk1743
 }

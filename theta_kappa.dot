@@ -43,6 +43,8 @@ digraph "Theta Kappa Zeta Family Tree" {
   tk1713 [label="ΘK1713|Chris Turturo"]
   tk1712 [label="ΘK1712|Travis Tanaka"]
   tk1711 [label="ΘK1711|Brett Sneed"]
+  tk1711 -> tk1718
+
   tk1710 [label="ΘK1710|Anthony Shevchenko"]
   tk1710 -> tk1740
 
@@ -51,6 +53,8 @@ digraph "Theta Kappa Zeta Family Tree" {
 
   tk1708 [label="ΘK1708|Derek McWilliams"]
   tk1707 [label="ΘK1707|Spencer McCune"]
+  tk1707 -> tk1727
+
   tk1706 [label="ΘK1706|Nicholas Klein"]
   tk1705 [label="ΘK1705|Dyllin Kinman"]
   tk1705 -> tk1728
@@ -59,7 +63,7 @@ digraph "Theta Kappa Zeta Family Tree" {
   tk1704 -> tk1719
 
   tk1703 [label="ΘK1703|Ethan Hixon"]
-  tk1703 -> tk1737
+  tk1703 -> tk1726, tk1737
 
   tk1701 [label="ΘK1701|Jeffery Han"]
   tk1701 -> tk1725
@@ -92,6 +96,8 @@ digraph "Theta Kappa Zeta Family Tree" {
   tk1688 -> tk1700, tk1739
 
   tk1687 [label="ΘK1687|Seth Bowen"]
+  tk1687 -> tk1703
+
   tk1685 [label="ΘK1685|Jeremy Bailey"]
   tk1685 -> tk1732
 
@@ -103,19 +109,28 @@ digraph "Theta Kappa Zeta Family Tree" {
   tk1679 -> tk1713, tk1695, tk1721
 
   tk1675 [label="ΘK1675|Eric McClure"]
+  tk1675 -> tk1697
 
   tk1668 [label="ΘK1668|Josh Dash"]
   tk1668 -> tk1699
 
+  tk1667 [label="ΘK1667|Travis Clarkson"]
+
   tk1664 [label="ΘK1664|Steven Proctor"]
-  tk1664 -> tk1682
+  tk1664 -> tk1682, tk1691
 
   tk1659 [label="ΘK1659|Calvin Bush"]
   tk1659 -> tk1743
 
+  tk1657 [label="ΘK1657|Will Bro"]
+  tk1657 -> tk1708, tk1667, tk1684
+
   //TODO: Add his number
   tk16XX [label="ΘK16XX|Ben Siebert"]
   tk16XX -> tk1693
+
+  tk1643 [label="ΘK1643|Zachary Bierhaus"]
+  tk1643 -> tk1707
 
   tk1639 [label="ΘK1639|Thor Nearn"]
   tk1639 -> tk1689, tk1664, tk1679
@@ -137,7 +152,42 @@ digraph "Theta Kappa Zeta Family Tree" {
   tk1572 [label="ΘK1572|Bob Iles"]
   tk1572 -> tk1608, tk1633
 
+  tk1566 [label="ΘK1566|Brian Barker"]
+  tk1566 -> tk1629
+
+  tk1559 [label="ΘK1559|Andrew Morin"]
+
+  tk1546 [label="ΘK1546|Marc Bassett"]
+  tk1546 -> tk1572, tk1604
+
+  tk1528 [label="ΘK1528|Cody Wagner"]
+  tk1528 -> tk1559, tk1579
+
+  tk1517 [label="ΘK1517|David Kugler"]
+  tk1517 -> tk1566
+
+  tk1487 [label="ΘK1487|Shawn Denlinger"]
+  tk1487 -> tk1517, tk1546
+
+  tk1378 [label="ΘK1378|David Bedel"]
+  tk1327 [label="ΘK1327|Jim Kuntz"]
+  tk1327 -> tk1378
+
+  tk1248 [label="ΘK1248|Rick Wilhelm"]
+  tk1248 -> tk1327
+
+  tk1170 [label="ΘK1170|Bob Meyer"]
+  tk1170 -> tk1248
+
+  tk1152 [label="ΘK1152|Joe Witulski"]
+  tk1152 -> tk1170
+
+  tk1104 [label="ΘK1104|Jeff Myers"]
+  tk1104 -> tk1152
+
   tk1070 [label="ΘK1070|Mitch Cain"]
+  tk1070 -> tk1104
+
   tk1010 [label="ΘK1010|Scott Lowe"]
   tk1010 -> tk1070
 

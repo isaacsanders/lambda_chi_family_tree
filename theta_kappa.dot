@@ -1,47 +1,161 @@
 digraph "Theta Kappa Zeta Family Tree" {
-  rankdir=LR
+  rankdir=TD
   node [shape=record]
-  tk1744 [label="<tk_num> ΘK1744|<name> Gavin West"]
-  tk1743 [label="<tk_num> ΘK1743|<name> Zachary Terrell"]
-  tk1742 [label="<tk_num> ΘK1742|<name> Andrew Tebbe"]
-  tk1739 [label="<tk_num> ΘK1739|<name> Kurt Seibert"]
-  tk1738 [label="<tk_num> ΘK1738|<name> Isaac Sanders"]
-  tk1737 [label="<tk_num> ΘK1737|<name> Jacob Rigelman"]
-  tk1736 [label="<tk_num> ΘK1736|<name> Colin Myers"]
-  tk1735 [label="<tk_num> ΘK1735|<name> Thomas Lowrey"]
-  tk1733 [label="<tk_num> ΘK1733|<name> Cole Hardman"]
-  tk1731 [label="<tk_num> ΘK1731|<name> James Butler"]
-  tk1728 [label="<tk_num> ΘK1728|<name> Richard Shomer"]
+  tk1744 [label="ΘK1744|Gavin West"]
+  tk1743 [label="ΘK1743|Zachary Terrell"]
+  tk1742 [label="ΘK1742|Andrew Tebbe"]
+  tk1741 [label="ΘK1741|Brandon Stahl"]
+  tk1740 [label="ΘK1740|Zachary Smith"]
+  tk1739 [label="ΘK1739|Kurt Seibert"]
+  tk1738 [label="ΘK1738|Isaac Sanders"]
+  tk1737 [label="ΘK1737|Jacob Rigelman"]
+  tk1736 [label="ΘK1736|Colin Myers"]
+  tk1735 [label="ΘK1735|Thomas Lowrey"]
+  tk1734 [label="ΘK1734|Junyi Jiang"]
+  tk1733 [label="ΘK1733|Cole Hardman"]
+  tk1732 [label="ΘK1732|Eric Downing"]
+  tk1731 [label="ΘK1731|James Butler"]
+  tk1728 [label="ΘK1728|Richard Shomer"]
   tk1728 -> tk1742
 
-  tk1721 [label="<tk_num> ΘK1721|<name> John McCormack"]
+  tk1727 [label="ΘK1727|Sunil Satish"]
+  tk1726 [label="ΘK1726|James Rademaker"]
+  tk1725 [label="ΘK1725|Zhengyu Qin"]
+  tk1724 [label="ΘK1724|Jordon Phillips"]
+  tk1723 [label="ΘK1723|Dale Pedzinski"]
+  tk1722 [label="ΘK1722|Brian Padilla"]
+  tk1721 [label="ΘK1721|John McCormack"]
   tk1721 -> tk1731
 
-  tk1719 [label="<tk_num> ΘK1719|<name> Alex Kittleson"]
+  tk1720 [label="ΘK1720|Casey Langdale"]
+  tk1720 -> tk1741
+
+  tk1719 [label="ΘK1719|Alex Kittleson"]
   tk1719 -> tk1735
 
-  tk1705 [label="<tk_num> ΘK1705|<name> Dyllin Kinman"]
+  tk1718 [label="ΘK1718|Chris Green"]
+  tk1718 -> tk1734
+
+  tk1717 [label="ΘK1717|Tim Diedriech"]
+  tk1716 [label="ΘK1716|Dalton Barnes"]
+  tk1715 [label="ΘK1715|Joe Lee"]
+  tk1714 [label="ΘK1714|Drew Williams"]
+  tk1713 [label="ΘK1713|Chris Turturo"]
+  tk1712 [label="ΘK1712|Travis Tanaka"]
+  tk1711 [label="ΘK1711|Brett Sneed"]
+  tk1710 [label="ΘK1710|Anthony Shevchenko"]
+  tk1710 -> tk1740
+
+  tk1709 [label="ΘK1709|Andrew Reedy"]
+  tk1709 -> tk1716
+
+  tk1708 [label="ΘK1708|Derek McWilliams"]
+  tk1707 [label="ΘK1707|Spencer McCune"]
+  tk1706 [label="ΘK1706|Nicholas Klein"]
+  tk1705 [label="ΘK1705|Dyllin Kinman"]
   tk1705 -> tk1728
 
-  tk1703 [label="<tk_num> ΘK1703|<name> Ethan Hixon"]
+  tk1704 [label="ΘK1704|Chris Hoorn"]
+  tk1704 -> tk1719
+
+  tk1703 [label="ΘK1703|Ethan Hixon"]
   tk1703 -> tk1737
 
-  tk1700 [label="<tk_num> ΘK1700|<name> Zachariah Dunbar"]
-  tk1700 -> tk1744
+  tk1701 [label="ΘK1701|Jeffery Han"]
+  tk1701 -> tk1725
 
-  tk1695 [label="<tk_num> ΘK1695|<name> Travis Stallings"]
+  tk1700 [label="ΘK1700|Zachariah Dunbar"]
+  tk1700 -> tk1744, tk1717
+
+  tk1699 [label="ΘK1699|Andy Chen"]
+  tk1698 [label="ΘK1698|Robert Anderton"]
+  tk1697 [label="ΘK1697|Evan Wilson"]
+  tk1695 [label="ΘK1695|Travis Stallings"]
   tk1695 -> tk1705, tk1733
 
-  tk1693 [label="<tk_num> ΘK1693|<name> Zachary Reynolds"]
+  tk1694 [label="ΘK1694|Nathaniel Smith"]
+  tk1693 [label="ΘK1693|Zachary Reynolds"]
   tk1693 -> tk1738
 
-  tk1692 [label="<tk_num> ΘK1692|<name> Benjamin McNees"]
-  tk1690 [label="<tk_num> ΘK1690|<name> Austin Hayhurst"]
+  tk1692 [label="ΘK1692|Benjamin McNees"]
+  tk1692 -> tk1712
+
+  tk1691 [label="ΘK1691|Scott Kucharski"]
+  tk1691 -> tk1722
+
+  tk1690 [label="ΘK1690|Austin Hayhurst"]
   tk1690 -> tk1736
 
-  tk1688 [label="<tk_num> ΘK1688|<name> Jeremy Bultema"]
+  tk1689 [label="ΘK1689|Todd Deskin"]
+
+  tk1688 [label="ΘK1688|Jeremy Bultema"]
   tk1688 -> tk1700, tk1739
 
-  tk1659 [label="<tk_num> ΘK1659|<name> Calvin Bush"]
+  tk1687 [label="ΘK1687|Seth Bowen"]
+  tk1685 [label="ΘK1685|Jeremy Bailey"]
+  tk1685 -> tk1732
+
+  tk1684 [label="ΘK1684|Will Adler"]
+  tk1682 [label="ΘK1682|Derik Sikes"]
+  tk1682 -> tk1709, tk1723
+
+  tk1679 [label="ΘK1679|Austin Ryan"]
+  tk1679 -> tk1713, tk1695, tk1721
+
+  tk1675 [label="ΘK1675|Eric McClure"]
+
+  tk1668 [label="ΘK1668|Josh Dash"]
+  tk1668 -> tk1699
+
+  tk1664 [label="ΘK1664|Steven Proctor"]
+  tk1664 -> tk1682
+
+  tk1659 [label="ΘK1659|Calvin Bush"]
   tk1659 -> tk1743
+
+  //TODO: Add his number
+  tk16XX [label="ΘK16XX|Ben Siebert"]
+  tk16XX -> tk1693
+
+  tk1639 [label="ΘK1639|Thor Nearn"]
+  tk1639 -> tk1689, tk1664, tk1679
+
+  tk1635 [label="ΘK1635|Ryan Jackson"]
+  tk1634 [label="ΘK1634|Brian Hicks"]
+  tk1634 -> tk16XX
+
+  tk1633 [label="ΘK1633|Flavel Heyman"]
+  tk1629 [label="ΘK1629|Dan Kinsell"]
+  tk1614 [label="ΘK1614|Seth Mihlfeld"]
+  tk1608 [label="ΘK1608|Alex Fine"]
+  tk1608 -> tk1635
+
+  tk1604 [label="ΘK1604|Josh Bronson"]
+  tk1579 [label="ΘK1579|Bruce Thackery"]
+  tk1579 -> tk1614
+
+  tk1572 [label="ΘK1572|Bob Iles"]
+  tk1572 -> tk1608, tk1633
+
+  tk1070 [label="ΘK1070|Mitch Cain"]
+  tk1010 [label="ΘK1010|Scott Lowe"]
+  tk1010 -> tk1070
+
+  tk899 [label="ΘK899|Mike Bixler"]
+  tk899 -> tk1010
+
+  tk859 [label="ΘK859|Mike Warne"]
+  tk859 -> tk899
+
+  tk808 [label="ΘK808|James Boyd"]
+  tk808 -> tk859
+
+  tk801 [label="ΘK801|Jim Benzig"]
+  tk801 -> tk808
+
+  tk740 [label="ΘK740|Mark Jones"]
+  tk740 -> tk801
+
+  tk703 [label="ΘK703|Dennis Dumas"]
+  tk703 -> tk740
 }

@@ -1,4 +1,4 @@
-tk: theta_kappa.dot
+all:
 	mkdir -p trees
 	dot -Tsvg -otrees/theta_kappa.svg theta_kappa.dot
 

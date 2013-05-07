@@ -169,7 +169,22 @@ digraph "Theta Kappa Zeta Family Tree" {
   tk1487 [label="ΘK1487|Shawn Denlinger"]
   tk1487 -> tk1517, tk1546
 
+  tk1485 [label="ΘK1485|Ryan Claus"]
+  tk1485 -> tk1528
+
+  tk1450 [label="ΘK1450|Tim Hancock"]
+  tk1450 -> tk1487
+
+  tk1437 [label="ΘK1437|Rimas Gozulaitis"]
+  tk1436 [label="ΘK1436|Scott Chasten"]
+  tk1436 -> tk1485
+
+  tk1391 [label="ΘK1391|Ken Bedel"]
+  tk1391 -> tk1436, tk1450
+
   tk1378 [label="ΘK1378|David Bedel"]
+  tk1378 -> tk1437, tk1391
+
   tk1327 [label="ΘK1327|Jim Kuntz"]
   tk1327 -> tk1378
 

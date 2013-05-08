@@ -65,7 +65,7 @@ digraph "Theta Kappa Zeta Family Tree" {
   tk1703 [label="ΘK1703|Ethan Hixon"]
   tk1703 -> tk1726, tk1737
 
-  tk1701 [label="ΘK1701|Jeffery Han"]
+  tk1701 [label="ΘK1701|Jeffrey Han"]
   tk1701 -> tk1725
 
   tk1700 [label="ΘK1700|Zachariah Dunbar"]
@@ -102,75 +102,219 @@ digraph "Theta Kappa Zeta Family Tree" {
   tk1685 -> tk1732
 
   tk1684 [label="ΘK1684|Will Adler"]
+  tk1683 [label="ΘK1683|Daniel Skinner"]
   tk1682 [label="ΘK1682|Derik Sikes"]
   tk1682 -> tk1709, tk1723
+
+  tk1681 [label="ΘK1681|Anthony Seibert"]
+  tk1681 -> tk1687, tk1710, tk1724
+
+  tk1680 [label="ΘK1680|Durias Samz"]
+  tk1680 -> tk1706
 
   tk1679 [label="ΘK1679|Austin Ryan"]
   tk1679 -> tk1713, tk1695, tk1721
 
+  tk1678 [label="ΘK1678|Nick Reed"]
+  tk1678 -> tk1694
+
   tk1675 [label="ΘK1675|Eric McClure"]
   tk1675 -> tk1697
+
+  tk1674 [label="ΘK1674|Alec Manke"]
+  tk1674 -> tk1715
+
+  tk1673 [label="ΘK1673|Eric Liobis"]
+  tk1673 -> tk1688, tk1714
+
+  tk1669 [label="ΘK1669|Jordon Eaker"]
+  tk1669 -> tk1701
 
   tk1668 [label="ΘK1668|Josh Dash"]
   tk1668 -> tk1699
 
   tk1667 [label="ΘK1667|Travis Clarkson"]
+  tk1666 [label="ΘK1666|Bryan Buccieri"]
+  tk1666 -> tk1704
 
   tk1664 [label="ΘK1664|Steven Proctor"]
   tk1664 -> tk1682, tk1691
 
+  tk1661 [label="ΘK1661|Michael Fuson"]
+  tk1661 -> tk1675
+
+  tk1660 [label="ΘK1660|Wescott Clark"]
   tk1659 [label="ΘK1659|Calvin Bush"]
   tk1659 -> tk1743
 
   tk1657 [label="ΘK1657|Will Bro"]
   tk1657 -> tk1708, tk1667, tk1684
 
-  //TODO: Add his number
-  tk16XX [label="ΘK16XX|Ben Siebert"]
-  tk16XX -> tk1693
+  tk1656 [label="ΘK1656|Wesley Benner"]
+  tk1656 -> tk1681, tk1698
 
+  tk1652 [label="ΘK1652|Ben Siebert"]
+  tk1652 -> tk1693
+
+  tk1651 [label="ΘK1651|Brad Pruett"]
+  tk1651 -> tk1666
+
+  tk1648 [label="ΘK1648|Travis Lemco"]
+  tk1646 [label="ΘK1646|Alex Freeman"]
+  tk1645 [label="ΘK1645|Brandon Duke"]
+  tk1645 -> tk1690, tk1660
+
+  tk1644 [label="ΘK1644|Andrew Carpenter"]
   tk1643 [label="ΘK1643|Zachary Bierhaus"]
-  tk1643 -> tk1707
+  tk1643 -> tk1669, tk1683, tk1707
+
+  tk1640 [label="ΘK1640|Derek Peterson"]
+  tk1640 -> tk1645
 
   tk1639 [label="ΘK1639|Thor Nearn"]
   tk1639 -> tk1689, tk1664, tk1679
 
   tk1635 [label="ΘK1635|Ryan Jackson"]
+  tk1635 -> tk1643
+
   tk1634 [label="ΘK1634|Brian Hicks"]
-  tk1634 -> tk16XX
+  tk1634 -> tk1652, tk1661
 
   tk1633 [label="ΘK1633|Flavel Heyman"]
+  tk1632 [label="ΘK1632|Dylan Engels"]
+  tk1632 -> tk1651
+
   tk1629 [label="ΘK1629|Dan Kinsell"]
+  tk1626 [label="ΘK1626|Nick Kaufman"]
+  tk1626 -> tk1646, tk1657
+
+  tk1624 [label="ΘK1624|Cody Getz"]
+  tk1623 [label="ΘK1623|Mike Cahill"]
+  tk1623 -> tk1644, tk1656
+
+  tk1622 [label="ΘK1622|Thomas Brooks"]
+  tk1616 [label="ΘK1616|Jeff Rubitshun"]
+  tk1616 -> tk1648
+
   tk1614 [label="ΘK1614|Seth Mihlfeld"]
+  tk1611 [label="ΘK1611|John Kropf"]
+  tk1610 [label="ΘK1610|Josh Howard"]
+  tk1610 -> tk1640, tk1622
+
+  tk1609 [label="ΘK1609|Adam Hirsch"]
+  tk1609 -> tk1632
+
   tk1608 [label="ΘK1608|Alex Fine"]
   tk1608 -> tk1635
 
+  tk1607 [label="ΘK1607|Scott Decker"]
   tk1604 [label="ΘK1604|Josh Bronson"]
+  tk1601 [label="ΘK1601|Ross Miller"]
+  tk1601 -> tk1611
+
+  tk1600 [label="ΘK1600|Kevin Lind"]
+  tk1600 -> tk1624, tk1626
+
+  tk1598 [label="ΘK1598|Aaron Anderson"]
+  tk1598 -> tk1610
+
+  tk1591 [label="ΘK1591|Neil Myers"]
+  tk1591 -> tk1639
+
+  tk1588 [label="ΘK1588|Mike Kruszynski"]
+  tk1588 -> tk1634, tk1616
+
+  tk1580 [label="ΘK1580|Justin Bailey"]
   tk1579 [label="ΘK1579|Bruce Thackery"]
   tk1579 -> tk1614
 
+  tk1576 [label="ΘK1576|Ryan Prince"]
+  tk1576 -> tk1600
+
+  tk1574 [label="ΘK1574|Andy Nuetzel"]
   tk1572 [label="ΘK1572|Bob Iles"]
   tk1572 -> tk1608, tk1633
 
+  tk1571 [label="ΘK1571|Brian Hirsch"]
+
+  tk1570 [label="ΘK1570|Brady Eastridge"]
+  tk1570 -> tk1580
+
+  tk1568 [label="ΘK1568|David Corbin"]
   tk1566 [label="ΘK1566|Brian Barker"]
-  tk1566 -> tk1629
+  tk1566 -> tk1609, tk1629
+
+  tk1565 [label="ΘK1565|Tyler Aune"]
+
+  tk1563 [label="ΘK1563|Paul Zimmerman"]
+  tk1563 -> tk1598, tk1607
 
   tk1559 [label="ΘK1559|Andrew Morin"]
+  tk1558 [label="ΘK1558|Aaron Merkel"]
+  tk1558 -> tk1565, tk1588
+
+  tk1554 [label="ΘK1554|Jason LaBella"]
+  tk1554 -> tk1601
 
   tk1546 [label="ΘK1546|Marc Bassett"]
   tk1546 -> tk1572, tk1604
 
+  tk1544 [label="ΘK1544|Stan Zaremba"]
+  tk1544 -> tk1570, tk1591
+
+  tk1543 [label="ΘK1543|Ron Stanis"]
+  tk1533 [label="ΘK1533|Billy Art"]
+  tk1533 -> tk1554
+
+  tk1532 [label="ΘK1532|Kevin Olsen"]
+  tk1532 -> tk1544, tk1571
+
   tk1528 [label="ΘK1528|Cody Wagner"]
   tk1528 -> tk1559, tk1579
 
+  tk1524 [label="ΘK1524|Brad Stull"]
   tk1517 [label="ΘK1517|David Kugler"]
   tk1517 -> tk1566
 
+  tk1514 [label="ΘK1514|Tim James"]
+  tk1514 -> tk1576
+
+  tk1512 [label="ΘK1512|Tim Finch"]
+  tk1512 -> tk1574
+
+  tk1509 [label="ΘK1509|Nick Craner"]
+  tk1507 [label="ΘK1507|Steve Corbin"]
+  tk1507 -> tk1543, tk1563, tk1568
+
+  tk1502 [label="ΘK1502|RJ Barton"]
+  tk1502 -> tk1558
+
+  tk1497 [label="ΘK1497|Clint White"]
+  tk1497 -> tk1524
+
+  tk1489 [label="ΘK1489|Jim Hicks"]
+  tk1489 -> tk1507
+
+  tk1488 [label="ΘK1488|Scott Grenert"]
   tk1487 [label="ΘK1487|Shawn Denlinger"]
   tk1487 -> tk1517, tk1546
 
   tk1485 [label="ΘK1485|Ryan Claus"]
   tk1485 -> tk1528
+
+  tk1481 [label="ΘK1481|Chad Wiseman"]
+  tk1481 -> tk1509
+
+  tk1478 [label="ΘK1478|Curt Stutz"]
+  tk1478 -> tk1497, tk1502, tk1533
+
+  tk1472 [label="ΘK1472|Adam Nelson"]
+  tk1471 [label="ΘK1471|Joe Miller"]
+  tk1466 [label="ΘK1466|Shawn Dooley"]
+  tk1466 -> tk1488
+
+  tk1452 [label="ΘK1452|Brad Henry"]
+  tk1452 -> tk1481
 
   tk1450 [label="ΘK1450|Tim Hancock"]
   tk1450 -> tk1487
@@ -179,48 +323,139 @@ digraph "Theta Kappa Zeta Family Tree" {
   tk1436 [label="ΘK1436|Scott Chasten"]
   tk1436 -> tk1485
 
+  tk1435 [label="ΘK1435|Nate Van Sell"]
+  tk1435 -> tk1472
+
+  tk1434 [label="ΘK1434|Andrew Smith"]
+  tk1409 [label="ΘK1409|Barry Portman"]
+  tk1409 -> tk1489, tk1466
+
+  tk1406 [label="ΘK1406|Ben Lyndgaard"]
+  tk1406 -> tk1478, tk1452
+
   tk1391 [label="ΘK1391|Ken Bedel"]
   tk1391 -> tk1436, tk1450
 
+  tk1390 [label="ΘK1390|Kyle Bartow"]
+  tk1390 -> tk1435
+
+  tk1385 [label="ΘK1385|James O'Dwyer"]
   tk1378 [label="ΘK1378|David Bedel"]
   tk1378 -> tk1437, tk1391
+
+  tk1377 [label="ΘK1377|Chad Baker"]
+  tk1377 -> tk1434, tk1471
+
+  tk1371 [label="ΘK1371|Jason Hoffman"]
+  tk1350 [label="ΘK1350|Jason Effing"]
+  tk1350 -> tk1409
+
+  tk1349 [label="ΘK1349|Tony Cooper"]
+  tk1349 -> tk1390, tk1385, tk1371
+
+  tk1332 [label="ΘK1332|Cortney Mittelsteadt"]
+  tk1332 -> tk1349, tk1377, tk1406
 
   tk1327 [label="ΘK1327|Jim Kuntz"]
   tk1327 -> tk1378
 
+  tk1325 [label="ΘK1325|Kurt Johnson"]
+  tk1305 [label="ΘK1305|Jim McGeowan"]
+  tk1280 [label="ΘK1280|Jason Brown"]
+  tk1275 [label="ΘK1275|Brian Whipp"]
+  tk1275 -> tk1305
+
+  tk1261 [label="ΘK1261|Mike Jordan"]
+  tk1255 [label="ΘK1255|Erik Drake"]
+  tk1255 -> tk1350
+
   tk1248 [label="ΘK1248|Rick Wilhelm"]
   tk1248 -> tk1327
+
+  tk1235 [label="ΘK1235|Jeff Morgan"]
+  tk1235 -> tk1325, tk1275
+
+  tk1234 [label="ΘK1234|John Meister"]
+  tk1227 [label="ΘK1227|Bob DeYoung"]
+  tk1227 -> tk1255
+
+  tk1186 [label="ΘK1186|Jim Albert"]
+  tk1186 -> tk1280, tk1261, tk1234
 
   tk1170 [label="ΘK1170|Bob Meyer"]
   tk1170 -> tk1248
 
+  tk1166 [label="ΘK1166|Dan Klein"]
   tk1152 [label="ΘK1152|Joe Witulski"]
   tk1152 -> tk1170
 
+  tk1146 [label="ΘK1146|Dennie Schoetmer"]
+  tk1146 -> tk1235, tk1186
+
+  tk1107 [label="ΘK1107|Barry Shook"]
+  tk1107 -> tk1146
+
+  tk1105 [label="ΘK1105|Chris Patterson"]
   tk1104 [label="ΘK1104|Jeff Myers"]
   tk1104 -> tk1152
+
+  tk1102 [label="ΘK1102|Dave Morrow"]
+  tk1071 [label="ΘK1071|Gabe Fleck"]
+  tk1071 -> tk1105
 
   tk1070 [label="ΘK1070|Mitch Cain"]
   tk1070 -> tk1104
 
+  tk1063 [label="ΘK1063|Steve Wubben"]
+  tk1063 -> tk1102
+
+  tk1040 [label="ΘK1040|Leslie Duellman"]
+  tk1033 [label="ΘK1033|Bill Thrasher"]
+
   tk1010 [label="ΘK1010|Scott Lowe"]
   tk1010 -> tk1070
+
+  tk1004 [label="ΘK1004|Cam Erekson"]
+  tk1004 -> tk1063
+
+  tk1002 [label="ΘK1002|Rick Doss"]
+  tk1002 -> tk1033, tk1071, tk1107
+
+  tk976 [label="ΘK976|Greg Hempfling"]
+  tk976 -> tk1004, tk1040
+
+  tk972 [label="ΘK972|Richie Evans"]
+  tk972 -> tk1002
+
+  tk943 [label="ΘK943|Tom Furlette"]
+  tk943 -> tk972
+
+  tk914 [label="ΘK914|Mike Miller"]
+  tk914 -> tk976, tk943
 
   tk899 [label="ΘK899|Mike Bixler"]
   tk899 -> tk1010
 
+  tk895 [label="ΘK895|Stan Woszczynski"]
   tk859 [label="ΘK859|Mike Warne"]
   tk859 -> tk899
 
-  tk808 [label="ΘK808|James Boyd"]
-  tk808 -> tk859
+  tk845 [label="ΘK845|Jeff Pauls"]
+  tk836 [label="ΘK836|John Barry"]
+  tk836 -> tk845, tk895, tk914
 
-  tk801 [label="ΘK801|Jim Benzig"]
+  tk808 [label="ΘK808|James Boyd"]
+  tk808 -> tk836, tk859
+
+  tk801 [label="ΘK801|Jim Benzing"]
   tk801 -> tk808
 
   tk740 [label="ΘK740|Mark Jones"]
   tk740 -> tk801
 
+  tk731 [label="ΘK731|Cliff Barrett"]
   tk703 [label="ΘK703|Dennis Dumas"]
   tk703 -> tk740
+
+  tk692 [label="ΘK692|Tom Hans"]
 }

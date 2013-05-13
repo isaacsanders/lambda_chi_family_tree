@@ -153,6 +153,8 @@ digraph "Theta Kappa Zeta Family Tree" {
   tk1656 [label="ΘK1656|Wesley Benner"]
   tk1656 -> tk1681, tk1698
 
+  tk1655 [label="ΘK1655|John Zeiser"]
+  tk1653 [label="ΘK1653|Kristopher Stuckey"]
   tk1652 [label="ΘK1652|Ben Siebert"]
   tk1652 -> tk1693
 
@@ -181,6 +183,8 @@ digraph "Theta Kappa Zeta Family Tree" {
   tk1634 -> tk1652, tk1661
 
   tk1633 [label="ΘK1633|Flavel Heyman"]
+  tk1633 -> tk1655
+
   tk1632 [label="ΘK1632|Dylan Engels"]
   tk1632 -> tk1651, tk1678
 
@@ -189,6 +193,8 @@ digraph "Theta Kappa Zeta Family Tree" {
   tk1626 -> tk1646, tk1657
 
   tk1624 [label="ΘK1624|Cody Getz"]
+  tk1624 -> tk1653
+
   tk1623 [label="ΘK1623|Mike Cahill"]
   tk1623 -> tk1644, tk1656
 
@@ -291,6 +297,7 @@ digraph "Theta Kappa Zeta Family Tree" {
   tk1502 [label="ΘK1502|RJ Barton"]
   tk1502 -> tk1558
 
+  tk1500 [label="ΘK1500|Chase Anderson"]
   tk1497 [label="ΘK1497|Clint White"]
   tk1497 -> tk1524
 
@@ -334,6 +341,7 @@ digraph "Theta Kappa Zeta Family Tree" {
   tk1435 -> tk1472
 
   tk1434 [label="ΘK1434|Andrew Smith"]
+  tk1422 [label="ΘK1422|Chris Curry"]
   tk1409 [label="ΘK1409|Barry Portman"]
   tk1409 -> tk1489, tk1466
 
@@ -367,6 +375,8 @@ digraph "Theta Kappa Zeta Family Tree" {
   tk1327 -> tk1378
 
   tk1325 [label="ΘK1325|Kurt Johnson"]
+  tk1325 -> tk1422
+
   tk1305 [label="ΘK1305|Jim McGeowan"]
   tk1296 [label="ΘK1296|Edward Robinson"]
   tk1281 [label="ΘK1281|Warren Bullock"]
@@ -390,6 +400,7 @@ digraph "Theta Kappa Zeta Family Tree" {
   tk1227 [label="ΘK1227|Bob DeYoung"]
   tk1227 -> tk1255
 
+  tk1189 [label="ΘK1189|Sean Bower"]
   tk1186 [label="ΘK1186|Jim Albert"]
   tk1186 -> tk1280, tk1261, tk1234
 
@@ -397,6 +408,8 @@ digraph "Theta Kappa Zeta Family Tree" {
   tk1170 -> tk1248
 
   tk1166 [label="ΘK1166|Dan Klein"]
+  tk1166 -> tk1227
+
   tk1152 [label="ΘK1152|Joe Witulski"]
   tk1152 -> tk1170
 
@@ -411,6 +424,9 @@ digraph "Theta Kappa Zeta Family Tree" {
   tk1104 -> tk1152
 
   tk1102 [label="ΘK1102|Dave Morrow"]
+  tk1089 [label="ΘK1089|Scott Wright"]
+  tk1089 -> tk1166
+
   tk1071 [label="ΘK1071|Gabe Fleck"]
   tk1071 -> tk1105
 
@@ -419,6 +435,9 @@ digraph "Theta Kappa Zeta Family Tree" {
 
   tk1063 [label="ΘK1063|Steve Wubben"]
   tk1063 -> tk1102
+
+  tk1051 [label="ΘK1051|Doug Lewis"]
+  tk1051 -> tk1089
 
   tk1040 [label="ΘK1040|Leslie Duellman"]
   tk1033 [label="ΘK1033|Bill Thrasher"]
@@ -435,11 +454,17 @@ digraph "Theta Kappa Zeta Family Tree" {
   tk976 [label="ΘK976|Greg Hempfling"]
   tk976 -> tk1004, tk1040
 
+  tk975 [label="ΘK975|Paul Garush"]
+  tk975 -> tk1051
+
   tk972 [label="ΘK972|Richie Evans"]
   tk972 -> tk1002
 
   tk943 [label="ΘK943|Tom Furlette"]
   tk943 -> tk972
+
+  tk927 [label="ΘK927|Wendall Turley"]
+  tk927 -> tk975
 
   tk914 [label="ΘK914|Mike Miller"]
   tk914 -> tk976, tk943
@@ -448,6 +473,9 @@ digraph "Theta Kappa Zeta Family Tree" {
   tk899 -> tk1010
 
   tk895 [label="ΘK895|Stan Woszczynski"]
+  tk893 [label="ΘK893|Eric Viscito"]
+  tk893 -> tk927
+
   tk859 [label="ΘK859|Mike Warne"]
   tk859 -> tk899
 

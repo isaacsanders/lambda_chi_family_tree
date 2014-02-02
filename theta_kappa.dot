@@ -1017,8 +1017,8 @@ digraph "Theta Kappa Zeta Family Tree" {
   tk920 [label="ΘK920|Mike Rasmussen"]
   tk920 -> tk1020, tk968
 
-  /*tk919 [label="ΘK919|Timothy Dean Plassmeier"]*/
-  /*tk918 [label="ΘK918|John Charle Pfeifer"]*/
+  tk919 [label="ΘK919|Timothy Dean Plassmeier"]
+  tk918 [label="ΘK918|John Charle Pfeifer"]
   /*tk917 [label="ΘK917|Michael Wayne Persinger"]*/
   /*tk916 [label="ΘK916|Scott Alan Orr"]*/
   /*tk915 [label="ΘK915|Richard Joseph Nyikos"]*/
@@ -1076,7 +1076,9 @@ digraph "Theta Kappa Zeta Family Tree" {
   /*tk871 [label="ΘK871|Jeffrey Richard Danner"]*/
   /*tk870 [label="ΘK870|Christopher Jon Chulumovich"]*/
   /*tk869 [label="ΘK869|Darl Gene Boysel"]*/
-  /*tk868 [label="ΘK868|Thomas Eugene Boyle"]*/
+  tk868 [label="ΘK868|Thomas Eugene Boyle"]
+  tk868 -> tk919
+
   /*tk867 [label="ΘK867|Alan Ross Bell"]*/
   /*tk866 [label="ΘK866|William Joe Beard"]*/
   tk865 [label="ΘK865|Stephen Earl Anderson"]
@@ -1138,7 +1140,9 @@ digraph "Theta Kappa Zeta Family Tree" {
 
   /*tk816 [label="ΘK816|David Duncan Goodwin"]*/
   /*tk815 [label="ΘK815|Arthur Hilton Gemmer"]*/
-  /*tk814 [label="ΘK814|John Paul Gardener"]*/
+  tk814 [label="ΘK814|John Paul Gardener"]
+  tk814 -> tk868
+
   tk813 [label="ΘK813|Guy Robert Gadomski"]
   tk813 -> tk854, tk897, tk929
 
@@ -1291,7 +1295,7 @@ digraph "Theta Kappa Zeta Family Tree" {
   /*tk666 [label="ΘK666|Jackson Eugene Hutson"]*/
   /*tk665 [label="ΘK665|Geoff James Germane"]*/
   tk664 [label="ΘK664|Larry Geier"]
-  tk664 -> tk686, tk728, tk750
+  tk664 -> tk728, tk750
 
   /*tk663 [label="ΘK663|William Bruce Engle"]*/
   /*tk662 [label="ΘK662|Richard Marlo Christman"]*/

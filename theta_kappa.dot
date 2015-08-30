@@ -1,6 +1,9 @@
 digraph "Theta Kappa Zeta Family Tree" {
   node [shape=record]
 
+  tk1782 [label="TK1782|Kenneth Sweetnam"]
+  tk1781 [label="TK1781|Chase Salyers"]
+  tk1780 [label="TK1780|Chris Baker"]
   tk1779 [label="TK1779|Jenner Wile"]
   tk1778 [label="TK1778|Lars Wallin"]
   tk1777 [label="TK1777|Zachary Brian Stichter"]
@@ -24,11 +27,13 @@ digraph "Theta Kappa Zeta Family Tree" {
 
   tk1763 [label="TK1763|Jeff Patterson"]
   tk1762 [label="TK1762|Davis Nygren"]
-  tk1762 -> tk1778
+  tk1762 -> tk1778, tk1782
 
   tk1761 [label="TK1761|Austin Niccum"]
   tk1760 [label="TK1760|Kyle McClintick"]
   tk1759 [label="TK1759|Greg Komora"]
+  tk1759 -> tk1781
+
   tk1758 [label="TK1758|Taylor Knoblock"]
   tk1758 -> tk1776
 
@@ -36,6 +41,8 @@ digraph "Theta Kappa Zeta Family Tree" {
   tk1757 -> tk1774
 
   tk1756 [label="TK1756|Sailesh Kadam"]
+  tk1756 -> tk1780
+
   tk1755 [label="TK1755|Jeffery Humphrey"]
   tk1754 [label="TK1754|Christopher Hockaden"]
   tk1753 [label="TK1753|Daniel Hartung"]
@@ -253,6 +260,9 @@ digraph "Theta Kappa Zeta Family Tree" {
   tk1655 [label="TK1655|John Zeiser"]
   tk1655 -> tk1662, tk1673
 
+  tk1654 [label="TK1654|Cody White"]
+  tk1654 -> tk1671
+
   tk1653 [label="TK1653|Kristopher Stuckey"]
   tk1652 [label="TK1652|Ben Seibert"]
   tk1652 -> tk1668, tk1693
@@ -404,6 +414,13 @@ digraph "Theta Kappa Zeta Family Tree" {
   tk1554 [label="TK1554|Jason LaBella"]
   tk1554 -> tk1601
 
+  /*tk1553 [label="TK1553|Brian Klimaszewski"]*/
+  /*tk1552 [label="TK1552|Vijay Kaul"]*/
+  /*tk1551 [label="TK1551|Tyler Hougland"]*/
+  /*tk1550 [label="TK1550|Steve Dodson"]*/
+  tk1549 [label="TK1549|Keenan Davis"]
+  /*tk1548 [label="TK1548|Tim Brown"]*/
+  /*tk1547 [label="TK1547|Brandon Boys"]*/
   tk1546 [label="TK1546|Marc Bassett"]
   tk1546 -> tk1572, tk1604
 
@@ -412,7 +429,7 @@ digraph "Theta Kappa Zeta Family Tree" {
 
   tk1543 [label="TK1543|Ron Stanis"]
   /*tk1542 [label="TK1542|Adam Sekela"]*/
-  /*tk1541 [label="TK1541|Jon Reeves"]*/
+  tk1541 [label="TK1541|Jon Reeves"]
   /*tk1540 [label="TK1540|Keith Huster"]*/
   /*tk1539 [label="TK1539|Jim Howard"]*/
   /*tk1538 [label="TK1538|Paul Gross"]*/
@@ -447,7 +464,7 @@ digraph "Theta Kappa Zeta Family Tree" {
   tk1516 [label="TK1516|Jim Kubicek"]
   tk1516 -> tk1562
 
-  tk1515 [label="TK1515|Scott Joji"]
+  /*tk1515 [label="TK1515|Scott Joji"]*/
   tk1514 [label="TK1514|Tim James"]
   tk1514 -> tk1576
 
@@ -479,7 +496,9 @@ digraph "Theta Kappa Zeta Family Tree" {
   tk1493 [label="TK1493|Glen Michael Ritzi"]
   /*tk1492 [label="TK1492|John William Meyer III"]*/
   /*tk1491 [label="TK1491|Eric Michael Kleen"]*/
-  /*tk1490 [label="TK1490|Nathaniel Alan Irwin"]*/
+  tk1490 [label="TK1490|Nathaniel Alan Irwin"]
+  tk1490 -> tk1541, tk1549
+
   tk1489 [label="TK1489|Jim Hicks"]
   tk1489 -> tk1507
 
@@ -492,6 +511,8 @@ digraph "Theta Kappa Zeta Family Tree" {
 
   tk1484 [label="TK1484|Donald Keith Casey"]
   tk1483 [label="TK1483|Andrew Robert Barkley"]
+  tk1483 -> tk1535
+
   tk1482 [label="TK1482|Brad Lee Zenthoefer"]
   tk1482 -> tk1484
 
@@ -515,7 +536,9 @@ digraph "Theta Kappa Zeta Family Tree" {
 
   /*tk1465 [label="TK1465|Jarrod Marcum Dobson"]*/
   /*tk1464 [label="TK1464|Micahel Reid Torosian"]*/
-  /*tk1463 [label="TK1463|Richard McSweeney Tate"]*/
+  tk1463 [label="TK1463|Richard McSweeney Tate"]
+  tk1463 -> tk1490
+
   tk1462 [label="TK1462|Ben Kelly Schy"]
   tk1462 -> tk1510
 
@@ -564,10 +587,10 @@ digraph "Theta Kappa Zeta Family Tree" {
   tk1434 [label="TK1434|Andrew Smith"]
   tk1432 [label="TK1432|Brad North"]
   /*tk1431 [label="TK1431|Michael Jason Kratoska"]*/
-  /*tk1430 [label="TK1430|Brian Michael Jedlicka"]*/
+  tk1430 [label="TK1430|Brian Michael Jedlicka"]
   tk1429 [label="TK1429|Christopher Matthew Irwin"]
   /*tk1428 [label="TK1428|Rocco Joseph Dominick"]*/
-  /*tk1427 [label="TK1427|Christopher Thomas Russell"]*/
+  tk1427 [label="TK1427|Christopher Thomas Russell"]
   /*tk1426 [label="TK1426|Anthony Paul Niese"]*/
   /*tk1425 [label="TK1425|Jason Allen Major"]*/
   /*tk1424 [label="TK1424|Brian M. Fentress"]*/
@@ -589,6 +612,14 @@ digraph "Theta Kappa Zeta Family Tree" {
   tk1406 [label="TK1406|Ben Lyndgaard"]
   tk1406 -> tk1478, tk1452
 
+  tk1405 [label="TK1405|William John Leber"]
+  tk1405 -> tk1430
+
+  /*tk1404 [label="TK1404|Michael Anthony Robert Kreiberg"]*/
+  /*tk1403 [label="TK1403|Theodore George Hulsman"]*/
+  /*tk1402 [label="TK1402|Todd Richard Hoaglund"]*/
+  /*tk1401 [label="TK1401|Rex Gordon Fuller"]*/
+  /*tk1400 [label="TK1400|Jonathan Keith Francis"]*/
   tk1399 [label="TK1399|Paul Flory"]
   tk1398 [label="TK1398|Jeremy Jay Flamion"]
   /*tk1397 [label="TK1397|Earl Anthony Escobar"]*/
@@ -637,6 +668,22 @@ digraph "Theta Kappa Zeta Family Tree" {
   /*tk1373 [label="TK1373|Darin Ryan Klotzsche"]*/
   /*tk1372 [label="TK1372|Andrew Russell Jones"]*/
   tk1371 [label="TK1371|Jason Hoffman"]
+  /*tk1370 [label="TK1370|Brett Alan Wiltshire"]*/
+  /*tk1369 [label="TK1369|Matthew Paul Weir"]*/
+  /*tk1368 [label="TK1368|Kevin Michael Unger"]*/
+  /*tk1367 [label="TK1367|Michael Shawn Stewart"]*/
+  /*tk1366 [label="TK1366|Patrick Steven Sohaney"]*/
+  /*tk1365 [label="TK1365|David Michael Snyder"]*/
+  /*tk1364 [label="TK1364|Cory Allan Smith"]*/
+  /*tk1363 [label="TK1363|Michael Andrew Sherry"]*/
+  /*tk1362 [label="TK1362|Steven Lee Seyfert"]*/
+  tk1361 [label="TK1361|John David Riedeman"]
+  tk1361 -> tk1427
+
+  /*tk1360 [label="TK1360|Daryl Lewis Peterson"]*/
+  /*tk1359 [label="TK1359|John William McBroom"]*/
+  /*tk1358 [label="TK1358|Daniel D'Andre LaBelle"]*/
+  /*tk1357 [label="TK1357|Dennis William Kirkland"]*/
   tk1356 [label="TK1356|Brad Key"]
   tk1356 -> tk1387, tk1407
 
@@ -691,6 +738,8 @@ digraph "Theta Kappa Zeta Family Tree" {
   /*tk1321 [label="TK1321|Shannon Wayne Holmes"]*/
   /*tk1320 [label="TK1320|Michael Alan Haskins"]*/
   tk1319 [label="TK1319|Mark Andrew Harris"]
+  tk1319 -> tk1405
+
   tk1318 [label="TK1318|Dennis Kyle Hamm"]
   tk1318 -> tk1395
 
@@ -772,6 +821,9 @@ digraph "Theta Kappa Zeta Family Tree" {
   /*tk1263 [label="TK1263|Daniel Anthony Krieg"]*/
   /*tk1262 [label="TK1262|Eric Julius Koetter"]*/
   tk1261 [label="TK1261|Mike Jordan"]
+  /*tk1260 [label="TK1260|Brian John Ingalls"]*/
+  tk1259 [label="TK1259|John Fredrick Henning, Jr."]
+  tk1259 -> tk1361
 
   tk1258 [label="TK1258|Bryan Christopher Hankins"]
   tk1258 -> tk1314
@@ -916,7 +968,7 @@ digraph "Theta Kappa Zeta Family Tree" {
   /*tk1133 [label="TK1133|Steven Michael Hanshaw"]*/
   /*tk1132 [label="TK1132|Voris Gerald Gresham"]*/
   tk1131 [label="TK1131|William Patrick Grace"]
-  /*tk1130 [label="TK1130|Anthony Michael Gausman"]*/
+  tk1130 [label="TK1130|Anthony Michael Gausman"]
   /*tk1129 [label="TK1129|Mark Walter Forsythe"]*/
   /*tk1128 [label="TK1128|Donald Ray Foley"]*/
   tk1127 [label="TK1127|Mark Lawrence Dolan"]
@@ -1012,7 +1064,9 @@ digraph "Theta Kappa Zeta Family Tree" {
   /*tk1057 [label="TK1057|Barry William Schaar"]*/
   tk1056 [label="TK1056|Steven Thomas Sauer"]
   /*tk1055 [label="TK1055|Steven Paul Nerney"]*/
-  /*tk1054 [label="TK1054|Kirk Charles Miller"]*/
+  tk1054 [label="TK1054|Kirk Charles Miller"]
+  tk1054 -> tk1130
+
   /*tk1053 [label="TK1053|Keith Brian McConnell"]*/
   /*tk1052 [label="TK1052|Chris Eugene McBride"]*/
   tk1051 [label="TK1051|Doug Lewis"]
@@ -1041,7 +1095,7 @@ digraph "Theta Kappa Zeta Family Tree" {
 
   /*tk1037 [label="TK1037|Brian Lee Dawson"]*/
   /*tk1036 [label="TK1036|Donald Gerard Childress"]*/
-  /*tk1035 [label="TK1035|Neil Joseph Brown"]*/
+  tk1035 [label="TK1035|Neil Joseph Brown"]
   /*tk1034 [label="TK1034|Glenn Dale Bridwell"]*/
   tk1033 [label="TK1033|Bill Thrasher"]
   /*tk1032 [label="TK1032|Mark James Evans"]*/
@@ -1057,7 +1111,7 @@ digraph "Theta Kappa Zeta Family Tree" {
   tk1023 -> tk1056
 
   /*tk1022 [label="TK1022|Steven Joseph Shannon"]*/
-  /*tk1021 [label="TK1021|John Thomas Sever Jr."]*/
+  tk1021 [label="TK1021|John Thomas Sever Jr."]
   tk1020 [label="TK1020|John Searle"]
   /*tk1019 [label="TK1019|Jerry Phillip Rominger"]*/
   /*tk1018 [label="TK1018|Damon L. Richards"]*/
@@ -1105,7 +1159,7 @@ digraph "Theta Kappa Zeta Family Tree" {
   /*tk986 [label="TK986|Ronald Anthony Russo"]*/
   /*tk985 [label="TK985|Robert Michael Rouse"]*/
   /*tk984 [label="TK984|Stephen John Reynolds"]*/
-  /*tk983 [label="TK983|Timothy Keith Putty"]*/
+  tk983 [label="TK983|Timothy Keith Putty"]
   /*tk982 [label="TK982|John William Pruett"]*/
   /*tk981 [label="TK981|Jeffrey Rene' Nadeau"]*/
   tk980 [label="TK980|Eric Miles"]
@@ -1131,9 +1185,11 @@ digraph "Theta Kappa Zeta Family Tree" {
   tk968 [label="TK968|Doug Byrum"]
   /*tk967 [label="TK967|Joseph Edward Burns"]*/
   /*tk966 [label="TK966|Mike John Brost"]*/
-  /*tk965 [label="TK965|Richart Isaacs Brinly"]*/
+  tk965 [label="TK965|Richard Isaacs Brinly"]
   /*tk964 [label="TK964|Charleton Langston Berk"]*/
-  /*tk963 [label="TK963|Alan Matthew Avery"]*/
+  tk963 [label="TK963|Alan Matthew Avery"]
+  tk963 -> tk1035
+
   /*tk962 [label="TK962|Peter Danial Alvey "]*/
   /*tk961 [label="TK961|David Brian Marcadis"]*/
   /*tk960 [label="TK960|Robert Chester Drummond"]*/
@@ -1167,13 +1223,15 @@ digraph "Theta Kappa Zeta Family Tree" {
   tk941 -> tk1000, tk1045
 
   tk940 [label="TK940|James Edward DeAmico"]
-  tk940 -> tk1023
+  tk940 -> tk1023, tk963
 
   /*tk939 [label="TK939|Stuart Clay Curtis"]*/
   /*tk938 [label="TK938|Thomas James Chorba, Jr."]*/
-  /*tk937 [label="TK937|Kevin Richard Chaffee"]*/
+  tk937 [label="TK937|Kevin Richard Chaffee"]
+  tk937 -> tk1054
+
   /*tk936 [label="TK936|Lynn Douglas Carnes"]*/
-  /*tk935 [label="TK935|Patrick James Avery"]*/
+  tk935 [label="TK935|Patrick James Avery"]
   /*tk934 [label="TK934|Bryan Keith Wallace"]*/
   /*tk933 [label="TK933|Kenneth Edward Tague"]*/
   tk932 [label="TK932|Gary Allen Finchum"]
@@ -1197,13 +1255,16 @@ digraph "Theta Kappa Zeta Family Tree" {
 
   tk919 [label="TK919|Timothy Dean Plassmeier"]
   tk918 [label="TK918|John Charle Pfeifer"]
+  tk918 -> tk983, tk1021
   /*tk917 [label="TK917|Michael Wayne Persinger"]*/
   /*tk916 [label="TK916|Scott Alan Orr"]*/
-  /*tk915 [label="TK915|Richard Joseph Nyikos"]*/
+  tk915 [label="TK915|Richard Joseph Nyikos"]
   tk914 [label="TK914|Mike Miller"]
   tk914 -> tk976, tk943
 
   tk913 [label="TK913|Mike McLear"]
+  tk913 -> tk965
+
   tk912 [label="TK912|Robert Scott McLaughlin"]
   /*tk911 [label="TK911|Fred Stewart McGurk"]*/
   /*tk910 [label="TK910|Mark Alan Mason"]*/
@@ -1211,10 +1272,12 @@ digraph "Theta Kappa Zeta Family Tree" {
   /*tk908 [label="TK908|Robert Michael Lenich"]*/
   /*tk907 [label="TK907|Charles David Leddon, Jr."]*/
   /*tk906 [label="TK906|Ron Joseph Knecht"]*/
-  /*tk905 [label="TK905|Jeery Wayne Ingle"]*/
+  tk905 [label="TK905|Jerry Wayne Ingle"]
   tk904 [label="TK904|Michael Anthony Hurt"]
   /*tk903 [label="TK903|Daniel Joseph Heidelberger"]*/
-  /*tk902 [label="TK902|Stuart William Gosch"]*/
+  tk902 [label="TK902|Stuart William Gosch"]
+  tk902 -> tk935
+
   /*tk901 [label="TK901|Lee Alan Gearig"]*/
   /*tk900 [label="TK900|John Brabender"]*/
   tk899 [label="TK899|Mike Bixler"]
@@ -1239,10 +1302,12 @@ digraph "Theta Kappa Zeta Family Tree" {
   /*tk886 [label="TK886|Frank Arther Rizzo"]*/
   /*tk885 [label="TK885|Thomas Paul Olinger"]*/
   tk884 [label="TK884|Michael Joseph McPherron"]
+  tk884 -> tk915
+
   /*tk883 [label="TK883|Darl Eugene Lehenbauer"]*/
   /*tk882 [label="TK882|James William Huston"]*/
   /*tk881 [label="TK881|David Richard Hummel"]*/
-  /*tk880 [label="TK880|Roger Dean Hatcher"]*/
+  tk880 [label="TK880|Roger Dean Hatcher"]
   /*tk879 [label="TK879|Matthew Thomas Harter"]*/
   tk878 [label="TK878|Frank Golden"]
   tk878 -> tk926, tk949
@@ -1271,23 +1336,36 @@ digraph "Theta Kappa Zeta Family Tree" {
 
   /*tk862 [label="TK862|Larry Michael Krieg"]*/
   /*tk861 [label="TK861|James Richard Eifert"]*/
-  /*tk860 [label="TK860|Henry Terrence Doherty"]*/
+  tk860 [label="TK860|Henry Terrence Doherty"]
+  tk860 -> tk880, tk905
+
   tk859 [label="TK859|Mike Warne"]
   tk859 -> tk899
 
+  tk858 [label="TK858|Charlie Roy Urbanowich"]
+  /*tk857 [label="TK857|Jimmie Joe Trueblood"]*/
+  /*tk856 [label="TK856|Steven Dennis Thompson"]*/
+  /*tk855 [label="TK855|Wayne Ivan Steinberg"]*/
   tk854 [label="TK854|William George Starr"]
   tk854 -> tk865
 
-  /*tk855 [label="TK855|Wayne Ivan Steinberg"]*/
-  /*tk856 [label="TK856|Steven Dennis Thompson"]*/
-  /*tk857 [label="TK857|Jimmie Joe Trueblood"]*/
-  /*tk858 [label="TK858|Charlie Roy Urbanowich"]*/
-  tk853 [label="TK853|Greg Smith"]
+  tk853 [label="TK853|Farquhar Gregory Smith"]
   tk853 -> tk947, tk932, tk887
 
+  /*tk852 [label="TK852|Martin Patrick Seffrin"]*/
+  tk851 [label="TK851|Scott Douglas Sanders"]
+  tk851 -> tk918
+
+  /*tk850 [label="TK850|Randy Gene Russell"]*/
+  /*tk849 [label="TK849|David Alan Rice"]*/
+  /*tk848 [label="TK848|James David Raaf"]*/
+  /*tk847 [label="TK847|Jay Dee Pinson II"]*/
+  /*tk846 [label="TK846|Michael H. Peters"]*/
   tk845 [label="TK845|Jeff Pauls"]
   tk845 -> tk878
 
+  tk844 [label="TK844|Douglas Edward Miller"]
+  tk843 [label="TK843|Dennis Lee Mayer"]
   tk842 [label="TK842|Joseph William Hance"]
   /*tk841 [label="TK841|Rick William Gesse"]*/
   /*tk840 [label="TK840|Gary James Gadomski"]*/
@@ -1304,7 +1382,9 @@ digraph "Theta Kappa Zeta Family Tree" {
   /*tk833 [label="TK833|Kevin Patrick Germain"]*/
   /*tk832 [label="TK832|Walter James Dickerson"]*/
   /*tk831 [label="TK831|Tad Orin Wells"]*/
-  /*tk830 [label="TK830|Chris Allen VanDenburgh"]*/
+  tk830 [label="TK830|Chris Allen VanDenburgh"]
+  tk830 -> tk860
+
   /*tk829 [label="TK829|Herman Eugene Turner, Jr. "]*/
   /*tk828 [label="TK828|Alan Wayne Stoner"]*/
   /*tk827 [label="TK827|Peter Charles Smith"]*/
@@ -1316,7 +1396,9 @@ digraph "Theta Kappa Zeta Family Tree" {
 
   tk822 [label="TK822|Kevin Kent Miller"]
   /*tk821 [label="TK821|Gregg Arthur Migaki"]*/
-  /*tk820 [label="TK820|Scott Jeffery Meier"]*/
+  tk820 [label="TK820|Scott Jeffery Meier"] // Nicknamed "Uncle"
+  tk820 -> tk902
+
   tk819 [label="TK819|Steve Leonard"]
   tk819 -> tk837, tk893
 
@@ -1324,7 +1406,7 @@ digraph "Theta Kappa Zeta Family Tree" {
   tk817 [label="TK817|Eric Nichols Jansen"]
   tk817 -> tk842, tk890
 
-  /*tk816 [label="TK816|David Duncan Goodwin"]*/
+  tk816 [label="TK816|David Duncan Goodwin"]
   /*tk815 [label="TK815|Arthur Hilton Gemmer"]*/
   tk814 [label="TK814|John Paul Gardener"]
   tk814 -> tk868
@@ -1333,8 +1415,8 @@ digraph "Theta Kappa Zeta Family Tree" {
   tk813 -> tk854, tk897, tk929
 
   tk812 [label="TK812|James Fruedenberg"]
-  /*tk811 [label="TK811|James Ronald Flesch"]*/
-  /*tk810 [label="TK810|David Michael Cooper"]*/
+  tk811 [label="TK811|James Ronald Flesch"]
+  tk810 [label="TK810|David Michael Cooper"]
   tk809 [label="TK809|John Clem"]
   tk809 -> tk876, tk920
 
@@ -1343,20 +1425,26 @@ digraph "Theta Kappa Zeta Family Tree" {
 
   /*tk807 [label="TK807|Steven Karl Roggenkamp"]*/
   tk806 [label="TK806|Timothy Bruce Stone"]
-  tk806 -> tk839
+  tk806 -> tk810, tk839
 
-  /*tk805 [label="TK805|David Lee Schacht"]*/
+  tk805 [label="TK805|David Lee Schacht"]
+  tk805 -> tk816
+
   /*tk804 [label="TK804|James Pierce Johnson"]*/
   /*tk803 [label="TK803|Michael David Hublar"]*/
   /*tk802 [label="TK802|Robert Michael Hayden"]*/
 
   tk801 [label="TK801|Jim Benzing"]
-  tk801 -> tk808
+  tk801 -> tk808, tk844
 
   /*tk800 [label="TK800|Rudy Gene Sanders"]*/
   tk799 [label="TK799|Cyriac Wegman"]
   tk799 -> tk809, tk853, tk863
 
+  tk798 [label="TK798|Randy Jean Warner"]
+  tk798 -> tk851
+
+  /*tk797 [label="TK797|Timothy Eugene Voegele"]*/
   tk796 [label="TK796|Steven Robert Van Dyck"]
   tk796 -> tk823
 
@@ -1372,11 +1460,15 @@ digraph "Theta Kappa Zeta Family Tree" {
   tk786 [label="TK786|Mike Korkos"]
   tk786 -> tk819
 
-  /*tk785 [label="TK785|John Christian Jacobsen"]*/
+  tk785 [label="TK785|John Christian Jacobsen"]
+  tk785 -> tk811
+
   /*tk784 [label="TK784|Richard Arnold Gollhofer"]*/
   /*tk783 [label="TK783|Stephen Eugene Flamion"]*/
   /*tk782 [label="TK782|Scot David Eisenhard"]*/
-  /*tk781 [label="TK781|Stephen Jordan Decker"]*/
+  tk781 [label="TK781|Stephen Jordan Decker"]
+  tk781 -> tk858
+
   tk780 [label="TK780|Thomas Lee Cooper"]
   tk780 -> tk817
 
@@ -1400,20 +1492,52 @@ digraph "Theta Kappa Zeta Family Tree" {
   tk764 [label="TK764|Vince Lambert"]
   tk764 -> tk786, tk812, tk834
 
+  /*tk751 [label="TK751|Richard Stephen Tiek"]*/
+  /*tk752 [label="TK752|Valentine Mary Jankowski"]*/
+  /*tk753 [label="TK753|Arthur Russell Nelson"]*/
+  /*tk754 [label="TK754|Danny Joe Price"]*/
+  /*tk755 [label="TK755|Glenn Mitchell Garrett"]*/
+  /*tk756 [label="TK756|Charles Edward Epstein"]*/
+  /*tk757 [label="TK757|Greg Robert Dawson"]*/
+  tk758 [label="TK758|Robert Edward Hynes"]
+  tk758 -> tk780
+
+  /*tk759 [label="TK759|Robert Joseph Rendaci"]*/
+  /*tk760 [label="TK760|Nicholas Dale Adams"]*/
+  /*tk761 [label="TK761|Michael Ray Gambrell"]*/
+  /*tk762 [label="TK762|Richard Alan Holmes"]*/
+  /*tk763 [label="TK763|Lestle Vaughn Huey"]*/
+
   tk750 [label="TK750|Larry Smith"]
   /*tk749 [label="TK749|Kevin William Smith"]*/
   /*tk748 [label="TK748|Mark William Schnaith"]*/
   /*tk747 [label="TK747|Philip Kent Salitros"]*/
   tk746 [label="TK746|Nicholas Michael Ryan"]
   /*tk745 [label="TK745|Joseph Whitman Rebone"]*/
-  /*tk744 [label="TK744|Anthony George Rafel"]*/
+  tk744 [label="TK744|Anthony George Rafel"]
+  tk744 -> tk806
+
   /*tk743 [label="TK743|Michael Albert Mussallem"]*/
   /*tk742 [label="TK742|Donald Henry McCullough II"]*/
   /*tk741 [label="TK741|Marvin Dale Keown"]*/
   tk740 [label="TK740|Mark Jones"]
   tk740 -> tk799, tk801, tk822
 
-  /*tk731 [label="TK731|Cliff Barrett"]*/
+  /*tk739 [label="TK739|Stephen Albert Huckaba"]*/
+  tk738 [label="TK738|Robert Roy Hirschfeld"]
+  tk738 -> tk785
+
+  /*tk736 [label="TK736|Thomas Francis Gettelfinger"]*/
+  /*tk737 [label="TK737|John Frederick Gillespie"]*/
+  /*tk735 [label="TK735|Steven Anderson Eisenbrown"]*/
+  tk734 [label="TK734|Steven Thomas Clauter"]
+  tk734 -> tk805
+
+  /*tk733 [label="TK733|Jerry Philip Brothers"]*/
+  /*tk732 [label="TK732|Charles William Beeler"]*/
+  tk731 [label="TK731|Cliff Barrett"]
+  tk731 -> tk798
+
   /*tk730 [label="TK730|Gregory Paul Grimes"]*/
   /*tk729 [label="TK729|Wayne Lawrence Collier"]*/
   tk728 [label="TK728|Steven Renick Bell"]
@@ -1429,7 +1553,9 @@ digraph "Theta Kappa Zeta Family Tree" {
   /*tk722 [label="TK722|Darrell Stuart Roum"]*/
   /*tk721 [label="TK721|William Scott Rice"]*/
   /*tk720 [label="TK720|Thomas Joseph Rathz"]*/
-  /*tk719 [label="TK719|Philip Lee Quackenbush"]*/
+  tk719 [label="TK719|Philip Lee Quackenbush"]
+  tk719 -> tk781
+
   /*tk718 [label="TK718|Ritchie D. Price"]*/
   /*tk717 [label="TK717|Randall Nelson Nesbit"]*/
   /*tk716 [label="TK716|Gregory Alan Morrison"]*/
@@ -1442,7 +1568,7 @@ digraph "Theta Kappa Zeta Family Tree" {
   /*tk709 [label="TK709|David Michael Hutchens"]*/
   /*tk708 [label="TK708|Thomas Eugene Hunt"]*/
   /*tk707 [label="TK707|James Melvin Gutting"]*/
-  /*tk706 [label="TK706|Francis Gerald Gomolka"]*/
+  tk706 [label="TK706|Francis Gerald Gomolka"]
   /*tk705 [label="TK705|Richard Mark Flora"]*/
   /*tk704 [label="TK704|Thomas Mark Easterday"]*/
   tk703 [label="TK703|Dennis Dumas"]
@@ -1461,9 +1587,12 @@ digraph "Theta Kappa Zeta Family Tree" {
   tk692 [label="TK692|Tom Hans"]
   tk692 -> tk727
 
-  /*tk691 [label="TK691|Terry Wayne White"]*/
+  tk691 [label="TK691|Terry Wayne White"]
+  tk691 -> tk731
   /*tk690 [label="TK690|Steve Richard White"]*/
-  /*tk689 [label="TK689|William Louis Thaler"]*/
+  tk689 [label="TK689|William Louis Thaler"]
+  tk689 -> tk706
+
   tk688 [label="TK688|Brett Louis Schmidli"]
   tk688 -> tk769
 
@@ -1483,7 +1612,9 @@ digraph "Theta Kappa Zeta Family Tree" {
 
   /*tk678 [label="TK678|Darryl Duane Huyett"]*/
   /*tk677 [label="TK677|Mark Steven Hoff "]*/
-  /*tk676 [label="TK676|Leonard Thomas Blackwell"]*/
+  tk676 [label="TK676|Leonard Thomas Blackwell"]
+  tk676 -> tk689
+
   /*tk675 [label="TK675|Herbert Thomas Young"]*/
   /*tk674 [label="TK674|Vernon Edward Whitehouse, Jr."]*/
   /*tk673 [label="TK673|Leo Alan Weiss"]*/
@@ -1547,7 +1678,9 @@ digraph "Theta Kappa Zeta Family Tree" {
   /*tk617 [label="TK617|Edwin Grant Green"]*/
   /*tk616 [label="TK616|Gary Martin Goodwine"]*/
   /*tk615 [label="TK615|Morris Reed Dovey"]*/
-  /*tk614 [label="TK614|Richard Dayne Conard"]*/
+  tk614 [label="TK614|Richard Dayne Conard"]
+  tk614 -> tk691
+
   /*tk613 [label="TK613|James Arthur Brown"]*/
   tk612 [label="TK612|Michael Thomas Nugent"]
   /*tk611 [label="TK611|Gary Donald Meek"]*/

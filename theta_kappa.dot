@@ -334,8 +334,6 @@ digraph "Theta Kappa Zeta Family Tree" {
   /*tk1612 [label="TK1612|Kyle Kustra"]*/
   tk1611 [label="TK1611|John Kropf"]
   tk1610 [label="TK1610|Josh Howard"]
-  tk1610 -> tk1640, tk1622
-
   tk1609 [label="TK1609|Adam Hirsch"]
   tk1609 -> tk1632
 
@@ -361,7 +359,7 @@ digraph "Theta Kappa Zeta Family Tree" {
   tk1600 -> tk1624, tk1626
 
   tk1598 [label="TK1598|Aaron Anderson"]
-  tk1598 -> tk1610
+  tk1598 -> tk1610, tk1640, tk1622
 
   tk1591 [label="TK1591|Neil Myers"]
   tk1591 -> tk1619, tk1639

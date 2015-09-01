@@ -1,4 +1,4 @@
-all: svg png
+all: svg
 	mkdir -p trees
 
 svg:

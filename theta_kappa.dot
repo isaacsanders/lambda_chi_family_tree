@@ -20,11 +20,11 @@ digraph "Theta Kappa Zeta Family Tree" {
   tk1794 [label="TK1794|Desmond Davis Jr."] tk1794 -> tk1799, tk1810
   tk1793 [label="TK1793|Robert Buccelli"]
   tk1792 [label="TK1792|Tyler Reinhardt"]
-  tk1791 [label="TK1791|Nathan Phipps"]
+  tk1791 [label="TK1791|Nathan Phipps"] tk1791 -> tk1808
   tk1790 [label="TK1790|Jeffrey Himmelblau"] tk1790 -> tk1804, tk1809
   tk1789 [label="TK1789|AJ Henderson"] tk1789 -> tk1800
   tk1788 [label="TK1788|Sterling Hayden"] tk1788 -> tk1795, tk1796
-  tk1787 [label="TK1787|Tom Miller"] tk1787 -> tk1787
+  tk1787 [label="TK1787|Tom Miller"]
   tk1786 [label="TK1786|Jedd Wilder"] tk1786 -> tk1806, tk1794
   tk1785 [label="TK1785|Noah Friz"]
   tk1784 [label="TK1784|Gunnar Horve"]
@@ -74,7 +74,7 @@ digraph "Theta Kappa Zeta Family Tree" {
   tk1740 [label="TK1740|Zachary Smith"]
   tk1739 [label="TK1739|Kurt Seibert"] tk1739 -> tk1756, tk1767
   tk1738 [label="TK1738|Isaac Sanders"] tk1738 -> tk1751, tk1777
-  tk1737 [label="TK1737|Jacob Rigelman"] tk1737 -> tk1766, tk1768, tk 1783, tk1786
+  tk1737 [label="TK1737|Jacob Rigelman"] tk1737 -> tk1766, tk1768, tk1783, tk1786
   tk1736 [label="TK1736|Colin Myers"] tk1736 -> tk1763
   tk1735 [label="TK1735|Thomas Lowrey"] tk1735 -> tk1759
   tk1734 [label="TK1734|Junyi Jiang"]
@@ -134,7 +134,7 @@ digraph "Theta Kappa Zeta Family Tree" {
   tk1678 [label="TK1678|Nick Reed"] tk1678 -> tk1694
   tk1675 [label="TK1675|Eric McClure"] tk1675 -> tk1697
   tk1674 [label="TK1674|Alec Manke"] tk1674 -> tk1715
-  tk1673 [label="TK1673|Eric Liobis"] tk1673 -> tk1688, tk1714
+  tk1673 [label="TK1673|Eric Liobis"] tk1673 -> tk1688, tk1714, tk1787
   /*tk1672 [label="TK1672|Timothy Lane"]*/
   tk1671 [label="TK1671|Nicholas Kirkland"]
   tk1670 [label="TK1670|Erik Hoeg"] tk1670 -> tk1711, tk1720

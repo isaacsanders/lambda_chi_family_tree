@@ -26,16 +26,15 @@ digraph "Theta Kappa Zeta Family Tree" {
   tk1788 [label="TK1788|Sterling Hayden"] tk1788 -> tk1795, tk1796
   tk1787 [label="TK1787|Tom Miller"] tk1787 -> tk1787
   tk1786 [label="TK1786|Jedd Wilder"] tk1786 -> tk1806, tk1794
-  /*tk1785 [label="TK1785|Noah Friz"]*/
+  tk1785 [label="TK1785|Noah Friz"]
   tk1784 [label="TK1784|Gunnar Horve"]
   tk1783 [label="TK1783|Steven Daum"] tk1783 -> tk1805
-  
   tk1782 [label="TK1782|Kenneth Sweetnam"]
   tk1781 [label="TK1781|Chase Salyers"] tk1781 -> tk1802
   tk1780 [label="TK1780|Chris Baker"] tk1780 -> tk1791
   tk1779 [label="TK1779|Jenner Wile"] tk1779 -> tk1793, tk1807
   tk1778 [label="TK1778|Lars Wallin"] tk1778 -> tk1788, tk1798, tk1801
-  tk1777 [label="TK1777|Zachary Brian Stichter"]
+  tk1777 [label="TK1777|Zachary Brian Stichter"] tk1777 -> tk1785
   tk1776 [label="TK1776|Alex Myers"]
   tk1775 [label="TK1775|William D Metcalf"]
   tk1774 [label="TK1774|Duane Lee Kristensen"]

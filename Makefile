@@ -1,5 +1,3 @@
-all: svg png
-
 svg:
 	mkdir -p trees
 	dot -Tsvg -otrees/theta_kappa.svg theta_kappa.dot

@@ -814,7 +814,7 @@ digraph "Theta Kappa Zeta Family Tree" {
   /*tk916 [label="TK916|Scott Alan Orr"]*/
   tk915 [label="TK915|Richard Joseph Nyikos"]
   tk914 [label="TK914|Mike Miller"] tk914 -> tk976, tk943
-  tk913 [label="TK913|Mike McLear"] tk913 -> tk965
+  tk913 [label="TK913|Mike McLear"] tk913 -> tk965; tk913 -> tk1787 [style=dotted]
   /*tk912 [label="TK912|Robert Scott McLaughlin"]*/
   /*tk911 [label="TK911|Fred Stewart McGurk"]*/
   /*tk910 [label="TK910|Mark Alan Mason"]*/

@@ -790,7 +790,7 @@ digraph "Theta Kappa Zeta Family Tree" {
   /*tk1024 [label="TK1024|Gerard John Tarantino"]*/
   tk1023 [label="TK1023|Mark Douglas Sieracke"] tk1023 -> tk1056
   /*tk1022 [label="TK1022|Steven Joseph Shannon"]*/
-  tk1021 [label="TK1021|John Thomas Sever Jr."] tk1021 -> tk1082, tk1112
+  tk1021 [label="TK1021|John Thomas Seiver Jr."] tk1021 -> tk1082, tk1112
   tk1020 [label="TK1020|John Searle"]
   /*tk1019 [label="TK1019|Jerry Phillip Rominger"]*/
   tk1018 [label="TK1018|Damon L. Richards"]
@@ -893,7 +893,7 @@ digraph "Theta Kappa Zeta Family Tree" {
   tk921 [label="TK921|Brock Jason Rule"] tk921 -> tk946
   tk920 [label="TK920|Mike Rasmussen"] tk920 -> tk1020, tk968
   tk919 [label="TK919|Timothy Dean Plassmeier"]
-  tk918 [label="TK918|John Charle Pfeifer"] tk918 -> tk983, tk1021
+  tk918 [label="TK918|John Charle Pheifer"] tk918 -> tk983, tk1021
   /*tk917 [label="TK917|Michael Wayne Persinger"]*/
   /*tk916 [label="TK916|Scott Alan Orr"]*/
   tk915 [label="TK915|Richard Joseph Nyikos"]

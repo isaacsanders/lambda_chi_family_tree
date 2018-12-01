@@ -595,7 +595,7 @@ digraph "Theta Kappa Zeta Family Tree" {
   /*tk1219 [label="TK1219|Clint Walter Brock"]*/
   /*tk1218 [label="TK1218|James Michael Branham"]*/
   tk1217 [label="TK1217|Marc Edward Bastian"] tk1217 -> tk1319
-  /*tk1216 [label="TK1216|Trevor Dean Arnold"]*/
+  tk1216 [label="TK1216|Trevor Dean Arnold"]
   /*tk1215 [label="TK1215|Matthew Scott McKelvey"]*/
   /*tk1214 [label="TK1214|David Richard William"]*/
   /*tk1213 [label="TK1213|Ken Albert Whitehead"]*/
@@ -604,7 +604,7 @@ digraph "Theta Kappa Zeta Family Tree" {
   /*tk1210 [label="TK1210|Gregory Dewayne Tielking"]*/
   /*tk1209 [label="TK1209|Gregory Peter Spock"]*/
   tk1208 [label="TK1208|Gary Lynn Smith"] tk1208 -> tk1220, tk1257
-  /*tk1207 [label="TK1207|"]*/
+  tk1207 [label="TK1207|Rick Schwaiger"] tk1207 -> tk1286 /* LB Chris Colwell */
   /*tk1206 [label="TK1206|"]*/
   /*tk1205 [label="TK1205|"]*/
   /*tk1204 [label="TK1204|"]*/
@@ -687,7 +687,7 @@ digraph "Theta Kappa Zeta Family Tree" {
   tk1127 [label="TK1127|Mark Lawrence Dolan"] tk1127 -> tk1179, tk1208, tk1228
   /*tk1126 [label="TK1126|Darryl Wayne Dixon"]*/
   tk1125 [label="TK1125|Frank Albert Didelot"] tk1125 -> tk1155, tk1244
-  tk1124 [label="TK1124|John Franklin Didat"] /* LB Rick Schwaiger, Trever Arnold */
+  tk1124 [label="TK1124|John Franklin Didat"] tk1124 -> tk1207, tk1216
   /*tk1123 [label="TK1123|Carl Walter Czarnik"]*/
   tk1122 [label="TK1122|Mike Sean Connaughton"]
   tk1121 [label="TK1121|Kevin Lee Coker"]

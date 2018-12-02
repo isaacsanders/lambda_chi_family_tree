@@ -142,7 +142,7 @@ digraph "Theta Kappa Zeta Family Tree" {
   /*tk1672 [label="TK1672|Timothy Lane"]*/
   tk1671 [label="TK1671|Nicholas Kirkland"]
   tk1670 [label="TK1670|Erik Hoeg"] tk1670 -> tk1711, tk1720
-  tk1669 [label="TK1669|Jordon Eaker"] tk1669 -> tk1701
+  tk1669 [label="TK1669|Jordan Eaker"] tk1669 -> tk1701
   tk1668 [label="TK1668|Josh Dash"] tk1668 -> tk1699
   tk1667 [label="TK1667|Travis Clarkson"]
   tk1666 [label="TK1666|Bryan Buccieri"] tk1666 -> tk1704
@@ -184,7 +184,7 @@ digraph "Theta Kappa Zeta Family Tree" {
   /*tk1630 [label="TK1630|Ronald Wuerdeman"]*/
   tk1629 [label="TK1629|Christian Sweeney"]
   tk1628 [label="TK1628|Daniel Marc Liechty"]
-  tk1627 [label="TK1627|Dan Kinsell"]
+  tk1627 [label="TK1627|Daniel Kinsell"]
   tk1626 [label="TK1626|Nick Kaufman"] tk1626 -> tk1646, tk1657
   /*tk1625 [label="TK1625|"]*/
   tk1624 [label="TK1624|Cody Getz"] tk1624 -> tk1653
@@ -284,7 +284,7 @@ digraph "Theta Kappa Zeta Family Tree" {
   /*tk1530 [label="TK1530|David Whitman"]*/
   tk1529 [label="TK1529|Brent Weigel"] tk1529 -> tk1573
   tk1528 [label="TK1528|Cody Wagner"] tk1528 -> tk1559, tk1579
-  tk1527 [label="TK1527|Rusty Van Lue"]
+  tk1527 [label="TK1527|Ruston Van Lue"]
   tk1526 [label="TK1526|Greg Van Dyk"]
   /*tk1525 [label="TK1525|Caleb Tennis"]*/
   tk1524 [label="TK1524|Brad Stull"]
@@ -550,7 +550,7 @@ digraph "Theta Kappa Zeta Family Tree" {
   tk1264 [label="TK1264|Michael Jon Lehr"] tk1264 -> tk1288, tk1309, tk1357
   /*tk1263 [label="TK1263|Daniel Anthony Krieg"]*/
   tk1262 [label="TK1262|Eric Julius Koetter"] tk1262 -> tk1287 /* BB Bill Didelot */
-  tk1261 [label="TK1261|Mike Jordan"]
+  tk1261 [label="TK1261|Michael Jordan"]
   /*tk1260 [label="TK1260|Brian John Ingalls"]*/
   tk1259 [label="TK1259|John Fredrick Henning, Jr."] tk1259 -> tk1361
   tk1258 [label="TK1258|Bryan Christopher Hankins"] tk1258 -> tk1314

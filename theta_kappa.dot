@@ -371,7 +371,7 @@ digraph "Theta Kappa Zeta Family Tree" {
   tk1443 [label="TK1443|Mark Douglas Bessler"]
   /*tk1442 [label="TK1442|Peter Richard Allabaugh"]*/
   /*tk1441 [label="TK1441|Andrew Joseph Zehnder"]*/
-  tk1440 [label="TK1440|Tim Wuestefeld"] tk1440 -> tk1477
+  tk1440 [label="TK1440|Tim Wuestefeld"] tk1440 -> tk1477 /* LB Darrell Hardesty who has LB Deburger */
   /*tk1439 [label="TK1439|Charlie Edward Ratz"]*/
   tk1438 [label="TK1438|Jason Frances Rapplean"]
   tk1437 [label="TK1437|Rimas Gozulaitis"]
@@ -419,7 +419,7 @@ digraph "Theta Kappa Zeta Family Tree" {
   tk1395 [label="TK1395|Andrew Nicholas Denlinger"] tk1395 -> tk1460
   tk1394 [label="TK1394|Christopher Benjamin Conley"] tk1394 -> tk1445
   /*tk1393 [label="TK1393|Bradley Evan Comer"]*/
-  /*tk1392 [label="TK1392|Jason Brian Bunselmeier"]*/
+  tk1392 [label="TK1392|Jason Brian Bunselmeier"] tk1392 -> tk1440 /* GUESSED by Kevin Brannin */
   tk1391 [label="TK1391|Ken Bedel"] tk1391 -> tk1436, tk1450
   tk1390 [label="TK1390|Kyle Bartow"] tk1390 -> tk1435
   tk1389 [label="TK1389|Shawn Wischmeier"] tk1389 -> tk1415
@@ -649,7 +649,7 @@ digraph "Theta Kappa Zeta Family Tree" {
   /*tk1165 [label="TK1165|"]*/
   /*tk1164 [label="TK1164|"]*/
   /*tk1163 [label="TK1163|"]*/
-  tk1162 [label="TK1162|Andy Grinstead"] /*tk1162 -> Reece Scott*/ /* BB Dave Cummings */
+  /*tk1162 [label="TK1162|Andy Grinstead"]*/ /* LB Reece Scott */ /* BB Dave Cummings */
   /*tk1161 [label="TK1161|"]*/
   /*tk1160 [label="TK1160|"]*/
   /*tk1159 [label="TK1159|"]*/

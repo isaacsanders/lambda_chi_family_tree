@@ -797,7 +797,7 @@ digraph "Theta Kappa Zeta Family Tree" {
   /*tk1017 [label="TK1017|Frederick Paul Rasche"]*/
   /*tk1016 [label="TK1016|Edward Andrew Oblon"]*/
   tk1015 [label="TK1015|John Wayne Moranski"]
-  /*tk1014 [label="TK1014|John Francis Messerschmidt"]*/
+  tk1014 [label="TK1014|John Francis Messerschmidt"]
   /*tk1013 [label="TK1013|Scott Alan McCan"]*/
   tk1012 [label="TK1012|Terry Dean Martin Jr."] tk1012 -> tk1059, tk1113
   /*tk1011 [label="TK1011|Scott Dewayne Mabry"]*/
@@ -874,7 +874,7 @@ digraph "Theta Kappa Zeta Family Tree" {
   tk940 [label="TK940|James Edward DeAmico"] tk940 -> tk1023, tk963
   /*tk939 [label="TK939|Stuart Clay Curtis"]*/
   /*tk938 [label="TK938|Thomas James Chorba, Jr."]*/
-  tk937 [label="TK937|Kevin Richard Chaffee"] tk937 -> tk1054
+  tk937 [label="TK937|Kevin Richard Chaffee"] tk937 -> tk1054, tk1014
   /*tk936 [label="TK936|Lynn Douglas Carnes"]*/
   tk935 [label="TK935|Patrick James Avery"]
   /*tk934 [label="TK934|Bryan Keith Wallace"]*/
@@ -916,7 +916,7 @@ digraph "Theta Kappa Zeta Family Tree" {
   tk898 [label="TK898|Michael Alan Sigmund"]
   tk897 [label="TK897|John Robert Farris"]
   /*tk896 [label="TK896|Scott Ray Bagwell"]*/
-  tk895 [label="TK895|Stan Woszczynski"]
+  tk895 [label="TK895|Stan Woszczynski"] tk895 -> tk937
   tk894 [label="TK894|John Mark Wilsford"] tk894 -> tk957
   tk893 [label="TK893|Eric Viscito"] tk893 -> tk927
   /*tk892 [label="TK892|Charles Edward Venis"]*/

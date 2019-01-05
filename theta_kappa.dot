@@ -164,13 +164,13 @@ digraph "Theta Kappa Zeta Family Tree" {
   /*tk1650 [label="TK1650|Michael Mast"]*/
   tk1649 [label="TK1649|Steve Mardis"] tk1649 -> tk1692
   tk1648 [label="TK1648|Travis Lemco"]
-  /*tk1647 [label="TK1647|"]*/
+  /*tk1647 [label="TK1647|"]*/ /* GUESS Anthony Klee */
   tk1646 [label="TK1646|Alex Freeman"]
   tk1645 [label="TK1645|Brandon Duke"] tk1645 -> tk1690, tk1660
   tk1644 [label="TK1644|Andrew Carpenter"]
   tk1643 [label="TK1643|Zachary Bierhaus"] tk1643 -> tk1669, tk1683, tk1707
-  /*tk1642 [label="TK1642|"]*/
-  /*tk1641 [label="TK1641|"]*/
+  /*tk1642 [label="TK1642|"]*/ /* GUESS Justin Larson */
+  /*tk1641 [label="TK1641|"]*/ /* GUESS Leyland Robinson */
   tk1640 [label="TK1640|Derek Petersen"] tk1640 -> tk1645, tk1680
   tk1639 [label="TK1639|Thor Nearn"] tk1639 -> tk1689, tk1664, tk1679
   /*tk1638 [label="TK1638|John Aaron Murray"]*/
@@ -196,7 +196,7 @@ digraph "Theta Kappa Zeta Family Tree" {
   /*tk1618 [label="TK1618|"]*/
   /*tk1617 [label="TK1617|Adam Sollman"]*/
   tk1616 [label="TK1616|Jeff Rubitshun"] tk1616 -> tk1648
-  /*tk1615 [label="TK1615|"]*/
+  /*tk1615 [label="TK1615|"]*/ /* GUESS Dan Pechacek */
   tk1614 [label="TK1614|Seth Mihlfeld"]
   tk1613 [label="TK1613|Brandon Long"]
   /*tk1612 [label="TK1612|Kyle Kustra"]*/
@@ -621,7 +621,7 @@ digraph "Theta Kappa Zeta Family Tree" {
   /*tk1193 [label="TK1193|Wade Ellis Hedrick"]*/
   tk1192 [label="TK1192|Daniel Robert Flynn"] tk1192 -> tk1231, tk1256
   /*tk1191 [label="TK1191|James William Eliot"]*/
-  tk1190 [label="TK1190|Kevin Scott Cook"] tk1190 -> tk1232, tk1264, tk1298
+  tk1190 [label="TK1190|Kevin Scott Cook"] tk1190 -> tk1232, tk1264, tk1298 /* BB Billy Didelot */ /* BB's BB P-Nut? */
   tk1189 [label="TK1189|Sean Bower"]
   /*tk1188 [label="TK1188|"]*/
   /*tk1187 [label="TK1187|"]*/

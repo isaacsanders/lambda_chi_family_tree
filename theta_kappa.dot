@@ -1,6 +1,7 @@
 digraph "Theta Kappa Zeta Family Tree" {
   node [shape=record]
 
+  tk1821 [label="TK1821|David Gruninger"]
   tk1820 [label="TK1820|Nick von Bulow"]
   tk1819 [label="TK1819|Dylan Verst"]
   tk1818 [label="TK1818|Timothy Daniel Pollack"]
@@ -20,7 +21,7 @@ digraph "Theta Kappa Zeta Family Tree" {
   tk1804 [label="TK1804|Jacob Myers"]
   tk1803 [label="TK1803|Brison Mondry"]
   tk1802 [label="TK1802|Quinn McKown"]
-  tk1801 [label="TK1801|Connor Mattox"] tk1801 -> tk1817
+  tk1801 [label="TK1801|Connor Mattox"] tk1801 -> tk1817, tk1821
   tk1800 [label="TK1800|Aden Khan"]
   tk1799 [label="TK1799|Derek Graham Hepworth"]
   tk1798 [label="TK1798|Michael Gassen"] tk1798 -> tk1811

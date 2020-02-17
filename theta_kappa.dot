@@ -1,15 +1,19 @@
 digraph "Theta Kappa Zeta Family Tree" {
   node [shape=record]
 
+  tk1825 [label="TK1825|Curtis Noble Jones"]
+  tk1824 [label="TK1824|Anakin Fry"]
+  tk1823 [label="TK1823|Sean Childers"]
+  tk1822 [label="TK1822|Alan Bruner"]
   tk1821 [label="TK1821|David Gruninger"]
   tk1820 [label="TK1820|Nick von Bulow"]
-  tk1819 [label="TK1819|Dylan Verst"]
+  tk1819 [label="TK1819|Dylan Verst"] tk-1821 -> tk1824
   tk1818 [label="TK1818|Timothy Daniel Pollack"]
   tk1817 [label="TK1817|Joseph Riley McCrocklin"]
   tk1816 [label="TK1816|Robert Kreft"]
-  tk1815 [label="TK1815|Antonio Juric"]
+  tk1815 [label="TK1815|Antonio Juric"] tk1814 -> tk1823
   tk1814 [label="TK1814|Robert Hairston"]
-  tk1813 [label="TK1813|Aditya Desai"]
+  tk1813 [label="TK1813|Aditya Desai"] tk1813 -> tk1825
   tk1812 [label="TK1812|Zane Blair"]
   tk1811 [label="TK1811|Tejaswi Bhangi"]
   tk1810 [label="TK1810|Cory Reck"] tk1810 -> tk1814
@@ -25,7 +29,7 @@ digraph "Theta Kappa Zeta Family Tree" {
   tk1800 [label="TK1800|Aden Khan"]
   tk1799 [label="TK1799|Derek Graham Hepworth"]
   tk1798 [label="TK1798|Michael Gassen"] tk1798 -> tk1811
-  tk1797 [label="TK1797|Justin Eccles"]
+  tk1797 [label="TK1797|Justin Eccles"] tk1797 -> tk1822
   tk1796 [label="TK1796|Charles Earle"]
   tk1795 [label="TK1795|Foster Horwitz"] tk1795 -> tk1819
   tk1794 [label="TK1794|Desmond Davis Jr."] tk1794 -> tk1799, tk1810, tk1816

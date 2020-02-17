@@ -11,7 +11,7 @@ digraph "Theta Kappa Zeta Family Tree" {
   tk1818 [label="TK1818|Timothy Daniel Pollack"]
   tk1817 [label="TK1817|Joseph Riley McCrocklin"]
   tk1816 [label="TK1816|Robert Kreft"]
-  tk1815 [label="TK1815|Antonio Juric"] tk1814 -> tk1823
+  tk1815 [label="TK1815|Antonio Juric"] tk1815 -> tk1823
   tk1814 [label="TK1814|Robert Hairston"]
   tk1813 [label="TK1813|Aditya Desai"] tk1813 -> tk1825
   tk1812 [label="TK1812|Zane Blair"]

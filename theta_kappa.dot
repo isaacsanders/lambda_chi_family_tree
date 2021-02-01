@@ -2,9 +2,9 @@ digraph "Theta Kappa Zeta Family Tree" {
   node [shape=record]
 
   tk1825 [label="TK1825|Curtis Noble Jones"]
-  tk1824 [label="TK1823|Anakin Fry"]
-  tk1823 [label="TK1822|Sean Childers"]
-  tk1822 [label="TK1824|Alan Bruner"]
+  tk1823 [label="TK1823|Anakin Fry"]
+  tk1822 [label="TK1822|Sean Childers"]
+  tk1824 [label="TK1824|Alan Bruner"]
   tk1821 [label="TK1821|David Gruninger"]
   tk1820 [label="TK1820|Nick von Bulow"]
   tk1819 [label="TK1819|Dylan Verst"] tk-1821 -> tk1823

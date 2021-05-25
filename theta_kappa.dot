@@ -1,10 +1,11 @@
 digraph "Theta Kappa Zeta Family Tree" {
   node [shape=record]
 
+  tk1826 [label="TK1826|Alec Goodrich"]
   tk1825 [label="TK1825|Curtis Noble Jones"]
+  tk1824 [label="TK1824|Alan Bruner"]
   tk1823 [label="TK1823|Anakin Fry"]
   tk1822 [label="TK1822|Sean Childers"]
-  tk1824 [label="TK1824|Alan Bruner"]
   tk1821 [label="TK1821|David Gruninger"]
   tk1820 [label="TK1820|Nick von Bulow"]
   tk1819 [label="TK1819|Dylan Verst"] tk-1821 -> tk1823
@@ -12,7 +13,7 @@ digraph "Theta Kappa Zeta Family Tree" {
   tk1817 [label="TK1817|Joseph Riley McCrocklin"]
   tk1816 [label="TK1816|Robert Kreft"]
   tk1815 [label="TK1815|Antonio Juric"] tk1815 -> tk1822
-  tk1814 [label="TK1814|Robert Hairston"]
+  tk1814 [label="TK1814|Robert Hairston"] tk1814 -> tk1826
   tk1813 [label="TK1813|Aditya Desai"] tk1813 -> tk1825
   tk1812 [label="TK1812|Zane Blair"]
   tk1811 [label="TK1811|Tejaswi Bhangi"]

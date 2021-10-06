@@ -909,7 +909,7 @@ digraph "Theta Kappa Zeta Family Tree" {
   tk921 [label="TK921|Brock Jason Rule"] tk921 -> tk946
   tk920 [label="TK920|Mike Rasmussen"] tk920 -> tk1020, tk968
   tk919 [label="TK919|Timothy Dean Plassmeier"]
-  tk918 [label="TK918|John Charle Pheifer"] tk918 -> tk983, tk1021
+  tk918 [label="TK918|John Charle Pfeifer"] tk918 -> tk983, tk1021
   /*tk917 [label="TK917|Michael Wayne Persinger"]*/
   /*tk916 [label="TK916|Scott Alan Orr"]*/
   tk915 [label="TK915|Richard Joseph Nyikos"]

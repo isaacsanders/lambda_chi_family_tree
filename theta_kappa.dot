@@ -14,7 +14,7 @@ digraph "Theta Kappa Zeta Family Tree" {
   tk1822 [label="TK1822|Sean Childers"]
   tk1821 [label="TK1821|David Gruninger"]
   tk1820 [label="TK1820|Nick von Bulow"]
-  tk1819 [label="TK1819|Dylan Verst"] tk-1819 -> tk1823
+  tk1819 [label="TK1819|Dylan Verst"] tk1819 -> tk1823
   tk1818 [label="TK1818|Timothy Daniel Pollack"]
   tk1817 [label="TK1817|Joseph Riley McCrocklin"]
   tk1816 [label="TK1816|Robert Kreft"] tk1816 -> tk1828
@@ -28,7 +28,7 @@ digraph "Theta Kappa Zeta Family Tree" {
   tk1808 [label="TK1808|Ryan Epstein"]
   tk1807 [label="TK1807|Christian Stout"] tk1807 -> tk1813
   tk1806 [label="TK1806|Ben Smith"]
-  tk1805 [label="TK1805|Shane Saylor"] tk1804 -> tk1830
+  tk1805 [label="TK1805|Shane Saylor"] tk1805 -> tk1830
   tk1804 [label="TK1804|Jacob Myers"]
   tk1803 [label="TK1803|Brison Mondry"]
   tk1802 [label="TK1802|Quinn McKown"]

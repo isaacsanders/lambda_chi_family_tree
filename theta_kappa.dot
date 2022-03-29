@@ -1,13 +1,12 @@
 digraph "Theta Kappa Zeta Family Tree" {
   node [shape=record]
-  
   tk1832 [label="TK1832|Macartan Summerville"]
-  tk1831 [label="TK1831|Benjamin Roberts"]
+  tk1831 [label="TK1831|Benjamin Roberts"] 
   tk1830 [label="TK1830|Aditya Laya Mehra"]
   tk1829 [label="TK1829|Samuel Kowing"]
   tk1828 [label="TK1828|Song Sheng Huang"]
-  tk1827 [label="TK1827|Connor Hallam"]
-  tk1826 [label="TK1826|Alec Goodrich"]
+  tk1827 [label="TK1827|Connor Hallam"] 
+  tk1826 [label="TK1826|Alec Goodrich"] 
   tk1825 [label="TK1825|Curtis Noble Jones"]
   tk1824 [label="TK1824|Alan Bruner"] tk1824 -> tk1829
   tk1823 [label="TK1823|Anakin Fry"]
@@ -25,7 +24,7 @@ digraph "Theta Kappa Zeta Family Tree" {
   tk1811 [label="TK1811|Tejaswi Bhangi"]
   tk1810 [label="TK1810|Cory Reck"] tk1810 -> tk1814, tk1831
   tk1809 [label="TK1809|Christopher Gregory"]
-  tk1808 [label="TK1808|Ryan Epstein"]
+  tk1808 [label="TK1808|Ryan Epstein"] tk1808 -> tk1831 [style=dotted; constraint=false]
   tk1807 [label="TK1807|Christian Stout"] tk1807 -> tk1813
   tk1806 [label="TK1806|Ben Smith"]
   tk1805 [label="TK1805|Shane Saylor"] tk1805 -> tk1830
@@ -689,7 +688,7 @@ digraph "Theta Kappa Zeta Family Tree" {
   tk1147 [label="TK1147|Alan Hugh Schoonveld"] tk1147 -> tk1238
   tk1146 [label="TK1146|Dennie Schoetmer"] tk1146 -> tk1235, tk1186
   /*tk1145 [label="TK1145|Michael Joe Robertson"]*/
-  /*tk1144 [label="TK1144|Kenneth Wayne Roberts"]*/
+  tk1144 [label="TK1144|Kenneth Wayne Roberts"]
   /*tk1143 [label="TK1143|Douglas Michael Perry"]*/
   /*tk1142 [label="TK1142|William Lawrence Parrish"]*/
   tk1141 [label="TK1141|Kevin Patrick Mowan"] /* LB Steve Loken */
@@ -740,7 +739,7 @@ digraph "Theta Kappa Zeta Family Tree" {
   /*tk1096 [label="TK1096|John Charles Hanger"]*/
   /*tk1095 [label="TK1095|William Michael Gilman"]*/
   /*tk1094 [label="TK1094|Scott Anthony Folz"]*/
-  /*tk1093 [label="TK1093|Dennis Derrick Dobbs"]*/
+  tk1093 [label="TK1093|Dennis Derrick Dobbs"] tk1093 -> tk1144
   /*tk1092 [label="TK1092|Mitchell Dean Day"]*/
   tk1091 [label="TK1091|Stephen Michael Battocchio"]
   /*tk1090 [label="TK1090|Stephen James Doerflinger"]*/

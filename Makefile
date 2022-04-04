@@ -1,10 +1,8 @@
 svg:
 	mkdir -p trees
-	dot -Tsvg -otrees/theta_kappa.svg theta_kappa.dot
-
+	unflatten -f -l 2 theta_kappa.dot | dot -Tsvg -otrees/theta_kappa.svg 
 png:
 	mkdir -p trees
-	dot -Tpng -otrees/theta_kappa.png theta_kappa.dot
-
+	unflatten -l 5 theta_kappa.dot | dot -Tpng -otrees/theta_kappa.png 
 clean:
 	rm -rf trees

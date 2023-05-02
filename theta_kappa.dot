@@ -16,7 +16,7 @@ digraph "Theta Kappa Zeta Family Tree" {
   tk1832 [label="&Theta;&Kappa;1832|Macartan Summerville"] tk1832 -> tk1841
   tk1831 [label="&Theta;&Kappa;1831|Benjamin Roberts"] tk1831 -> tk1837, tk1843
   tk1830 [label="&Theta;&Kappa;1830|Aditya Laya Mehra"]
-  tk1829 [label="&Theta;&Kappa;1829|Samuel Kowing"] tk1829 -> tk1833, tk1829 -> tk1836
+  tk1829 [label="&Theta;&Kappa;1829|Samuel Kowing"] tk1829 -> tk1833, tk1836
   tk1828 [label="&Theta;&Kappa;1828|Song Sheng Huang"]
   tk1827 [label="&Theta;&Kappa;1827|Connor Hallam"] 
   tk1826 [label="&Theta;&Kappa;1826|Alec Goodrich"] 

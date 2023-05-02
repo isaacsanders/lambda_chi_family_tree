@@ -1,19 +1,31 @@
 digraph "Theta Kappa Zeta Family Tree" {
   /* Any edges that are invisible are not actual big little pairs, they're just there to organize the tree */
   node [shape=record]
-  tk1832 [label="&Theta;&Kappa;1832|Macartan Summerville"]
-  tk1831 [label="&Theta;&Kappa;1831|Benjamin Roberts"] 
+  tk1844 [label="&Theta;&Kappa;1844|Raymond Zhao"]
+  tk1843 [label="&Theta;&Kappa;1843|Thomas Yang"]
+  tk1842 [label="&Theta;&Kappa;1842|Theo Souris"]
+  tk1841 [label="&Theta;&Kappa;1841|Peter Sorenson"]
+  tk1840 [label="&Theta;&Kappa;1840|Chaitanya Singh"]
+  tk1839 [label="&Theta;&Kappa;1839|Vidhu Naik"]
+  tk1838 [label="&Theta;&Kappa;1838|Brandon Liu"]
+  tk1837 [label="&Theta;&Kappa;1837|Edward Kang"]
+  tk1836 [label="&Theta;&Kappa;1836|William Greenlee"]
+  tk1835 [label="&Theta;&Kappa;1835|William Chong"]
+  tk1834 [label="&Theta;&Kappa;1834|Eric Billips"]
+  tk1833 [label="&Theta;&Kappa;1833|Blake Baker"]
+  tk1832 [label="&Theta;&Kappa;1832|Macartan Summerville"] tk1832 -> tk1841
+  tk1831 [label="&Theta;&Kappa;1831|Benjamin Roberts"] tk1831 -> tk1837, tk1831 -> tk1843
   tk1830 [label="&Theta;&Kappa;1830|Aditya Laya Mehra"]
-  tk1829 [label="&Theta;&Kappa;1829|Samuel Kowing"]
+  tk1829 [label="&Theta;&Kappa;1829|Samuel Kowing"] tk1829 -> tk1833, tk1829 -> tk1836
   tk1828 [label="&Theta;&Kappa;1828|Song Sheng Huang"]
   tk1827 [label="&Theta;&Kappa;1827|Connor Hallam"] 
   tk1826 [label="&Theta;&Kappa;1826|Alec Goodrich"] 
-  tk1825 [label="&Theta;&Kappa;1825|Curtis Noble Jones"]
+  tk1825 [label="&Theta;&Kappa;1825|Curtis Noble Jones"] tk1825 -> tk1834, tk1825 -> tk1838
   tk1824 [label="&Theta;&Kappa;1824|Alan Bruner"] tk1824 -> tk1829
-  tk1823 [label="&Theta;&Kappa;1823|Anakin Fry"]
-  tk1822 [label="&Theta;&Kappa;1822|Sean Childers"]
+  tk1823 [label="&Theta;&Kappa;1823|Anakin Fry"] tk1823 -> tk1844
+  tk1822 [label="&Theta;&Kappa;1822|Sean Childers"] tk1822 -> tk1842
   tk1821 [label="&Theta;&Kappa;1821|David Gruninger"]
-  tk1820 [label="&Theta;&Kappa;1820|Nick von Bulow"]
+  tk1820 [label="&Theta;&Kappa;1820|Nick von Bulow"] tk1820 -> tk1835
   tk1819 [label="&Theta;&Kappa;1819|Dylan Verst"] tk1819 -> tk1823
   tk1818 [label="&Theta;&Kappa;1818|Timothy Daniel Pollack"]
   tk1817 [label="&Theta;&Kappa;1817|Joseph Riley McCrocklin"]
@@ -34,7 +46,7 @@ digraph "Theta Kappa Zeta Family Tree" {
   tk1802 [label="&Theta;&Kappa;1802|Quinn McKown"]
   tk1801 [label="&Theta;&Kappa;1801|Connor Mattox"] tk1801 -> tk1817, tk1821
   tk1800 [label="&Theta;&Kappa;1800|Aden Khan"]
-  tk1799 [label="&Theta;&Kappa;1799|Derek Graham Hepworth"]
+  tk1799 [label="&Theta;&Kappa;1799|Derek Graham Hepworth"] tk1799 -> tk1839, tk1799 -> tk1840
   tk1798 [label="&Theta;&Kappa;1798|Michael Gassen"] tk1798 -> tk1811
   tk1797 [label="&Theta;&Kappa;1797|Justin Eccles"] tk1797 -> tk1824
   tk1796 [label="&Theta;&Kappa;1796|Charles Earle"]
